@@ -1,0 +1,11 @@
+special_days:
+  day_5:
+    days: [5, 15, 25]
+  day_7:
+    contains_digit: 7
+  day_11:
+    days: [11]
+  day_22:
+    days: [22]
+  month_day_zorome:
+    same_month_day_digit: true

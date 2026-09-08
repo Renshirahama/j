@@ -1,0 +1,7 @@
+sources:
+  slo_navi:
+    enabled: true
+    base_url: "https://slo-navi.com"
+    hall_id: "11297"
+    request_delay_seconds: 3
+    user_agent: "JugglerAnalysisMVP/0.1 contact: local-research"

@@ -1,0 +1,17 @@
+labels:
+  diff_plus_1000:
+    type: diff_at_least
+    threshold: 1000
+  high_reg_games:
+    type: games_and_reg_probability
+    min_games: 7000
+    max_reg_probability: 300
+  high_combined_reg_games:
+    type: games_combined_and_reg_probability
+    min_games: 7000
+    max_combined_probability: 135
+    max_reg_probability: 300
+  same_machine_top20:
+    type: same_day_quantile
+    quantile: 0.8
+default_label: same_machine_top20
