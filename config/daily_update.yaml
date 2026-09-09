@@ -1,0 +1,22 @@
+jobs:
+  - id: shibuya
+    store: "エスパス日拓渋谷駅前新館"
+    machine: "ジャグラー"
+    hall_id: "11297"
+    score_profile: "balanced"
+    db: "data/db/shibuya_juggler.sqlite"
+    out: "web/public/dashboard_shibuya_juggler.json"
+  - id: mizonokuchi
+    store: "エスパス日拓溝の口駅前新館"
+    machine: "ジャグラー"
+    hall_id: "11556"
+    score_profile: "reg_quality"
+    db: "data/db/mizonokuchi_juggler.sqlite"
+    out: "web/public/dashboard_mizonokuchi_juggler.json"
+  - id: kicona_shinjuku3
+    store: "キコーナ新宿三丁目店"
+    machine: "ジャグラー"
+    hall_id: "11326"
+    score_profile: "raise_after_weak"
+    db: "data/db/kicona_shinjuku3_juggler.sqlite"
+    out: "web/public/dashboard_kicona_shinjuku3_juggler.json"

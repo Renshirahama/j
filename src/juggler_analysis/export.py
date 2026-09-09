@@ -12,12 +12,19 @@ from .hypotheses import evaluate_hypotheses
 from .scoring import explain_row, score_candidates
 
 
-def build_dashboard_payload(df: pd.DataFrame, special_config: dict, label_config: dict, label_name: str, display_machine_name: str | None = None) -> dict:
+def build_dashboard_payload(
+    df: pd.DataFrame,
+    special_config: dict,
+    label_config: dict,
+    label_name: str,
+    display_machine_name: str | None = None,
+    score_profile: str | None = None,
+) -> dict:
     latest_date = max(df["date"])
     target_date = pd.Timestamp(latest_date).date() + timedelta(days=1)
     pred_features = features_for_prediction(df, target_date, special_config)
     scorer_comparison = compare_score_profiles(df, special_config, label_config, label_name)
-    best_profile = str(scorer_comparison.iloc[0]["score_profile"]) if not scorer_comparison.empty else "balanced"
+    best_profile = score_profile or (str(scorer_comparison.iloc[0]["score_profile"]) if not scorer_comparison.empty else "balanced")
     ranking = score_candidates(pred_features, profile=best_profile)
     ranking["reasons"] = ranking.apply(explain_row, axis=1)
     backtest = walk_forward_backtest(df, special_config, label_config, label_name, score_profile=best_profile)

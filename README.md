@@ -102,6 +102,16 @@ npm run dev
 
 スマホから同一LANで見る場合は、Next.jsの表示するNetwork URLを開いてください。
 
+## 毎日の自動更新（Mac）
+
+スロナビの渋谷店（ホールID `11297`）、溝の口店（`11556`）、キコーナ新宿三丁目店（`11326`）を毎朝9:00に更新します。前日分を取得し、それぞれのDBとダッシュボードJSONを更新します。店舗ごとに採用スコアも分けています。
+
+```bash
+./scripts/install_mac_schedule.sh
+```
+
+取得できない店舗・日（robots.txt確認不可、未掲載など）はログに残し、他店舗の処理は続けます。ログは`data/processed/daily_update.log`です。店舗設定とスコアプロファイルは`config/daily_update.yaml`で変更できます。
+
 ## 設定
 
 店舗・機種:

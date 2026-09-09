@@ -1,144 +1,122 @@
 {
   "store": "キコーナ新宿三丁目店",
   "machine_name": "ジャグラー",
-  "latest_date": "2026-08-31",
-  "target_date": "2026-09-01",
+  "latest_date": "2026-09-08",
+  "target_date": "2026-09-09",
   "ranking": [
     {
       "machine_name": "ファンキージャグラー2",
-      "machine_number": "625",
-      "score": 73.97,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り"
-      ],
-      "past_7d_avg_diff": -735.5714285714,
-      "past_7d_reg_probability": 337.2289156627,
-      "prev_difference_medals": -294.0
-    },
-    {
-      "machine_name": "ネオアイムジャグラーEX",
-      "machine_number": "607",
-      "score": 65.89,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -511.4285714286,
-      "past_7d_reg_probability": 384.3692307692,
-      "prev_difference_medals": -863.0
-    },
-    {
-      "machine_name": "ファンキージャグラー2",
       "machine_number": "627",
-      "score": 62.41,
+      "score": 67.95,
       "reasons": [
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り"
-      ],
-      "past_7d_avg_diff": -614.1428571429,
-      "past_7d_reg_probability": 431.2368421053,
-      "prev_difference_medals": -202.0
-    },
-    {
-      "machine_name": "ファンキージャグラー2",
-      "machine_number": "630",
-      "score": 62.33,
-      "reasons": [
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り"
-      ],
-      "past_7d_avg_diff": -366.7142857143,
-      "past_7d_reg_probability": 452.8,
-      "prev_difference_medals": -833.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "582",
-      "score": 61.86,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 105.0,
-      "past_7d_reg_probability": 307.3444444444,
-      "prev_difference_medals": -396.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "660",
-      "score": 61.47,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "前日状態が凹み・連続マイナス寄り",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -343.8571428571,
-      "past_7d_reg_probability": 414.0,
-      "prev_difference_medals": -514.0
+      "past_7d_avg_diff": -600.0,
+      "past_7d_reg_probability": 445.6363636364,
+      "prev_difference_medals": -510.0
     },
     {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "622",
-      "score": 61.33,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -293.7142857143,
-      "past_7d_reg_probability": 367.0588235294,
-      "prev_difference_medals": -744.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "661",
-      "score": 59.07,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -266.4285714286,
-      "past_7d_reg_probability": 370.3859649123,
-      "prev_difference_medals": -171.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "621",
-      "score": 58.56,
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "625",
+      "score": 65.61,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "過去7日平均G数が高くサンプル信頼度が比較的高い",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -46.7142857143,
-      "past_7d_reg_probability": 310.0,
-      "prev_difference_medals": -223.0
+      "past_7d_avg_diff": -646.2857142857,
+      "past_7d_reg_probability": 336.5773195876,
+      "prev_difference_medals": 137.0
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "630",
+      "score": 63.6,
+      "reasons": [
+        "直近7日差枚が弱めで上げ候補として評価",
+        "前日状態が凹み・連続マイナス寄り",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -336.0,
+      "past_7d_reg_probability": 484.92,
+      "prev_difference_medals": -278.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "660",
+      "score": 63.27,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "前日状態が凹み・連続マイナス寄り",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -354.7142857143,
+      "past_7d_reg_probability": 404.3636363636,
+      "prev_difference_medals": -92.0
     },
     {
       "machine_name": "ネオアイムジャグラーEX",
       "machine_number": "613",
-      "score": 58.3,
+      "score": 61.4,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -248.2857142857,
-      "past_7d_reg_probability": 282.1617647059,
-      "prev_difference_medals": -586.0
+      "past_7d_avg_diff": -253.0,
+      "past_7d_reg_probability": 283.96875,
+      "prev_difference_medals": -830.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "661",
+      "score": 61.22,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -356.2857142857,
+      "past_7d_reg_probability": 393.3488372093,
+      "prev_difference_medals": -424.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "580",
+      "score": 60.95,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "過去30日差枚の台別傾向が相対的に良い",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 255.1428571429,
+      "past_7d_reg_probability": 308.838028169,
+      "prev_difference_medals": -1340.0
+    },
+    {
+      "machine_name": "ハッピージャグラーVⅢ",
+      "machine_number": "656",
+      "score": 60.18,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "過去30日差枚の台別傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -276.7142857143,
+      "past_7d_reg_probability": 331.4782608696,
+      "prev_difference_medals": -341.0
     },
     {
       "machine_name": "アイムジャグラーEX",
       "machine_number": "608",
-      "score": 57.98,
+      "score": 59.28,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
@@ -150,388 +128,413 @@
       "prev_difference_medals": -56.0
     },
     {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "618",
-      "score": 57.78,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "過去30日差枚の台別傾向が相対的に良い",
-        "同機種内の台番号末尾傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 707.4285714286,
-      "past_7d_reg_probability": 273.618556701,
-      "prev_difference_medals": -398.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "632",
-      "score": 57.7,
+      "machine_name": "ハッピージャグラーVⅢ",
+      "machine_number": "663",
+      "score": 59.26,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -251.8571428571,
-      "past_7d_reg_probability": 412.3,
-      "prev_difference_medals": -587.0
-    },
-    {
-      "machine_name": "ジャグラーガールズSS",
-      "machine_number": "655",
-      "score": 56.42,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の台番号末尾傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 35.0,
-      "past_7d_reg_probability": 288.6333333333,
-      "prev_difference_medals": -225.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "620",
-      "score": 55.63,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "過去30日差枚の台別傾向が相対的に良い",
-        "同機種内の台番号末尾傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 86.7142857143,
-      "past_7d_reg_probability": 335.4428571429,
-      "prev_difference_medals": 96.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "602",
-      "score": 55.57,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 40.5714285714,
-      "past_7d_reg_probability": 298.6666666667,
-      "prev_difference_medals": -425.0
-    },
-    {
-      "machine_name": "ネオアイムジャグラーEX",
-      "machine_number": "610",
-      "score": 55.38,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -198.0,
-      "past_7d_reg_probability": 346.7209302326,
-      "prev_difference_medals": -357.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "601",
-      "score": 54.89,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "過去30日差枚の台別傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -78.7142857143,
-      "past_7d_reg_probability": 310.1777777778,
-      "prev_difference_medals": 329.0
+      "past_7d_avg_diff": -157.8571428571,
+      "past_7d_reg_probability": 288.4166666667,
+      "prev_difference_medals": -283.0
     },
     {
       "machine_name": "ゴーゴージャグラー3",
       "machine_number": "638",
-      "score": 54.81,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価"
-      ],
-      "past_7d_avg_diff": 119.7142857143,
-      "past_7d_reg_probability": 242.0128205128,
-      "prev_difference_medals": -265.0
-    },
-    {
-      "machine_name": "ミスタージャグラー",
-      "machine_number": "667",
-      "score": 54.58,
+      "score": 58.27,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -95.5714285714,
-      "past_7d_reg_probability": 313.171875,
-      "prev_difference_medals": 472.0
+      "past_7d_avg_diff": 67.0,
+      "past_7d_reg_probability": 247.7402597403,
+      "prev_difference_medals": -747.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "632",
+      "score": 57.85,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "前日状態が凹み・連続マイナス寄り",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -153.1428571429,
+      "past_7d_reg_probability": 408.1,
+      "prev_difference_medals": -587.0
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "662",
+      "score": 57.84,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "過去30日差枚の台別傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 95.5714285714,
+      "past_7d_reg_probability": 344.7777777778,
+      "prev_difference_medals": -433.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "618",
+      "score": 57.66,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "過去30日差枚の台別傾向が相対的に良い",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 587.4285714286,
+      "past_7d_reg_probability": 264.4408602151,
+      "prev_difference_medals": -289.0
+    },
+    {
+      "machine_name": "ジャグラーガールズSS",
+      "machine_number": "655",
+      "score": 57.53,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の台番号末尾傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -100.1428571429,
+      "past_7d_reg_probability": 325.8775510204,
+      "prev_difference_medals": -49.0
+    },
+    {
+      "machine_name": "ジャグラーガールズSS",
+      "machine_number": "653",
+      "score": 56.34,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の台番号末尾傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 1.1428571429,
+      "past_7d_reg_probability": 337.152173913,
+      "prev_difference_medals": -496.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "602",
+      "score": 55.73,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 83.5714285714,
+      "past_7d_reg_probability": 294.1754385965,
+      "prev_difference_medals": -85.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "586",
+      "score": 54.73,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 263.4285714286,
+      "past_7d_reg_probability": 290.7662337662,
+      "prev_difference_medals": -521.0
+    },
+    {
+      "machine_name": "ネオアイムジャグラーEX",
+      "machine_number": "608",
+      "score": 54.32,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -279.7142857143,
+      "past_7d_reg_probability": 417.5897435897,
+      "prev_difference_medals": 46.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "611",
+      "score": 54.25,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -351.7142857143,
+      "past_7d_reg_probability": 422.8333333333,
+      "prev_difference_medals": 55.0
     }
   ],
   "backtest": {
-    "evaluated_days": 229,
-    "top1_avg_diff": -83.6593886462882,
-    "top1_plus_rate": 0.3624454148471616,
-    "top3_avg_diff": 7.61863173216885,
-    "top3_plus_rate": 0.4032023289665211,
-    "top3_proxy_capture_rate": 0.0573165510745783,
-    "top5_avg_diff": -0.3615720524017467,
-    "top5_plus_rate": 0.39126637554585153,
-    "top5_proxy_capture_rate": 0.09247153009675486,
-    "top3_avg_reg_probability": 436.08919031384005,
-    "top3_avg_games": 3030.07423580786,
-    "past30_wins": 15,
-    "past30_losses": 15,
-    "random_top3_daily_mean": -36.03050509461427,
+    "evaluated_days": 230,
+    "top1_avg_diff": -82.7,
+    "top1_plus_rate": 0.3652173913043478,
+    "top3_avg_diff": 12.708695652173914,
+    "top3_plus_rate": 0.4057971014492754,
+    "top3_proxy_capture_rate": 0.05788256606990622,
+    "top5_avg_diff": 1.7408695652173913,
+    "top5_plus_rate": 0.39217391304347826,
+    "top5_proxy_capture_rate": 0.09288469735720375,
+    "top3_avg_reg_probability": 435.4728299417283,
+    "top3_avg_games": 3046.866666666667,
+    "past30_wins": 16,
+    "past30_losses": 14,
+    "random_top3_daily_mean": -35.62352608695653,
     "predictive_power": "not_confirmed",
     "label_name": "same_machine_top20",
     "score_profile": "raise_after_weak"
   },
   "random": {
-    "random_trials": 229000,
-    "random_avg": -36.03050509461426,
-    "random_95_lo": -829.3333333333334,
-    "random_95_hi": 1060.6666666666667
+    "random_trials": 230000,
+    "random_avg": -35.623526086956524,
+    "random_95_lo": -828.6666666666666,
+    "random_95_hi": 1061.3416666666647
   },
   "scorer_comparison": [
     {
       "score_profile": "raise_after_weak",
-      "evaluated_days": 229,
-      "top1_avg_diff": -83.6593886463,
-      "top1_plus_rate": 0.3624454148,
-      "top3_avg_diff": 7.6186317322,
-      "top3_plus_rate": 0.403202329,
-      "top3_proxy_capture_rate": 0.0573165511,
-      "top5_avg_diff": -0.3615720524,
-      "top5_plus_rate": 0.3912663755,
-      "top5_proxy_capture_rate": 0.0924715301,
-      "top3_avg_reg_probability": 436.0891903138,
-      "top3_avg_games": 3030.0742358079,
-      "past30_wins": 15,
-      "past30_losses": 15,
-      "random_top3_daily_mean": -38.7449490539,
+      "evaluated_days": 230,
+      "top1_avg_diff": -82.7,
+      "top1_plus_rate": 0.3652173913,
+      "top3_avg_diff": 12.7086956522,
+      "top3_plus_rate": 0.4057971014,
+      "top3_proxy_capture_rate": 0.0578825661,
+      "top5_avg_diff": 1.7408695652,
+      "top5_plus_rate": 0.392173913,
+      "top5_proxy_capture_rate": 0.0928846974,
+      "top3_avg_reg_probability": 435.4728299417,
+      "top3_avg_games": 3046.8666666667,
+      "past30_wins": 16,
+      "past30_losses": 14,
+      "random_top3_daily_mean": -38.4282463768,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 68700,
-      "random_random_avg": -38.7449490539,
-      "random_random_95_lo": -825.6666666667,
-      "random_random_95_hi": 1042.175,
-      "top3_vs_random_delta": 46.363580786
+      "random_random_trials": 69000,
+      "random_random_avg": -38.4282463768,
+      "random_random_95_lo": -825.3333333333,
+      "random_random_95_hi": 1042.0083333333,
+      "top3_vs_random_delta": 51.136942029
     },
     {
       "score_profile": "balanced",
-      "evaluated_days": 229,
-      "top1_avg_diff": -0.1877729258,
-      "top1_plus_rate": 0.384279476,
-      "top3_avg_diff": -33.8806404658,
-      "top3_plus_rate": 0.3828238719,
-      "top3_proxy_capture_rate": 0.0476731741,
-      "top5_avg_diff": -57.4480349345,
-      "top5_plus_rate": 0.3737991266,
-      "top5_proxy_capture_rate": 0.0777132032,
-      "top3_avg_reg_probability": 460.7776558666,
-      "top3_avg_games": 3149.8966521106,
+      "evaluated_days": 230,
+      "top1_avg_diff": -1.4434782609,
+      "top1_plus_rate": 0.3826086957,
+      "top3_avg_diff": -34.4028985507,
+      "top3_plus_rate": 0.3826086957,
+      "top3_proxy_capture_rate": 0.0474658994,
+      "top5_avg_diff": -55.5026086957,
+      "top5_plus_rate": 0.3747826087,
+      "top5_proxy_capture_rate": 0.0776470588,
+      "top3_avg_reg_probability": 460.4384548409,
+      "top3_avg_games": 3151.8985507246,
       "past30_wins": 13,
       "past30_losses": 17,
-      "random_top3_daily_mean": -38.7449490539,
+      "random_top3_daily_mean": -38.4282463768,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 68700,
-      "random_random_avg": -38.7449490539,
-      "random_random_95_lo": -825.6666666667,
-      "random_random_95_hi": 1042.175,
-      "top3_vs_random_delta": 4.8643085881
+      "random_random_trials": 69000,
+      "random_random_avg": -38.4282463768,
+      "random_random_95_lo": -825.3333333333,
+      "random_random_95_hi": 1042.0083333333,
+      "top3_vs_random_delta": 4.0253478261
     },
     {
       "score_profile": "number_calendar",
-      "evaluated_days": 229,
-      "top1_avg_diff": -46.0917030568,
-      "top1_plus_rate": 0.3493449782,
-      "top3_avg_diff": -63.3537117904,
-      "top3_plus_rate": 0.3828238719,
-      "top3_proxy_capture_rate": 0.046563276,
-      "top5_avg_diff": -18.4733624454,
-      "top5_plus_rate": 0.4034934498,
-      "top5_proxy_capture_rate": 0.0832808888,
-      "top3_avg_reg_probability": 468.8962694751,
-      "top3_avg_games": 2929.6550218341,
+      "evaluated_days": 230,
+      "top1_avg_diff": -47.147826087,
+      "top1_plus_rate": 0.347826087,
+      "top3_avg_diff": -60.8231884058,
+      "top3_plus_rate": 0.384057971,
+      "top3_proxy_capture_rate": 0.0463608269,
+      "top5_avg_diff": -18.827826087,
+      "top5_plus_rate": 0.4034782609,
+      "top5_proxy_capture_rate": 0.082918798,
+      "top3_avg_reg_probability": 468.2332995383,
+      "top3_avg_games": 2934.7724637681,
       "past30_wins": 16,
       "past30_losses": 14,
-      "random_top3_daily_mean": -38.7449490539,
+      "random_top3_daily_mean": -38.4282463768,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 68700,
-      "random_random_avg": -38.7449490539,
-      "random_random_95_lo": -825.6666666667,
-      "random_random_95_hi": 1042.175,
-      "top3_vs_random_delta": -24.6087627365
+      "random_random_trials": 69000,
+      "random_random_avg": -38.4282463768,
+      "random_random_95_lo": -825.3333333333,
+      "random_random_95_hi": 1042.0083333333,
+      "top3_vs_random_delta": -22.394942029
     },
     {
       "score_profile": "reg_quality",
-      "evaluated_days": 229,
-      "top1_avg_diff": -53.903930131,
-      "top1_plus_rate": 0.3668122271,
-      "top3_avg_diff": -70.2328966521,
-      "top3_plus_rate": 0.3682678311,
-      "top3_proxy_capture_rate": 0.0466360562,
-      "top5_avg_diff": -77.2585152838,
-      "top5_plus_rate": 0.3720524017,
-      "top5_proxy_capture_rate": 0.075493407,
-      "top3_avg_reg_probability": 464.8451146358,
-      "top3_avg_games": 2933.0596797671,
+      "evaluated_days": 230,
+      "top1_avg_diff": -48.5956521739,
+      "top1_plus_rate": 0.3695652174,
+      "top3_avg_diff": -70.5971014493,
+      "top3_plus_rate": 0.368115942,
+      "top3_proxy_capture_rate": 0.0464332907,
+      "top5_avg_diff": -77.3573913043,
+      "top5_plus_rate": 0.372173913,
+      "top5_proxy_capture_rate": 0.0751651748,
+      "top3_avg_reg_probability": 464.4818518032,
+      "top3_avg_games": 2936.0043478261,
       "past30_wins": 10,
       "past30_losses": 20,
-      "random_top3_daily_mean": -38.7449490539,
+      "random_top3_daily_mean": -38.4282463768,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 68700,
-      "random_random_avg": -38.7449490539,
-      "random_random_95_lo": -825.6666666667,
-      "random_random_95_hi": 1042.175,
-      "top3_vs_random_delta": -31.4879475983
+      "random_random_trials": 69000,
+      "random_random_avg": -38.4282463768,
+      "random_random_95_lo": -825.3333333333,
+      "random_random_95_hi": 1042.0083333333,
+      "top3_vs_random_delta": -32.1688550725
     },
     {
       "score_profile": "carryover",
-      "evaluated_days": 229,
-      "top1_avg_diff": -153.6113537118,
-      "top1_plus_rate": 0.3231441048,
-      "top3_avg_diff": -127.6579330422,
-      "top3_plus_rate": 0.3508005822,
-      "top3_proxy_capture_rate": 0.0424511945,
-      "top5_avg_diff": -87.6489082969,
-      "top5_plus_rate": 0.3676855895,
-      "top5_proxy_capture_rate": 0.0744744841,
-      "top3_avg_reg_probability": 471.4183314033,
-      "top3_avg_games": 2862.0334788937,
-      "past30_wins": 14,
-      "past30_losses": 16,
-      "random_top3_daily_mean": -38.7449490539,
+      "evaluated_days": 230,
+      "top1_avg_diff": -147.8695652174,
+      "top1_plus_rate": 0.3260869565,
+      "top3_avg_diff": -126.3710144928,
+      "top3_plus_rate": 0.352173913,
+      "top3_proxy_capture_rate": 0.042266624,
+      "top5_avg_diff": -88.1069565217,
+      "top5_plus_rate": 0.367826087,
+      "top5_proxy_capture_rate": 0.074150682,
+      "top3_avg_reg_probability": 470.9961517896,
+      "top3_avg_games": 2871.6782608696,
+      "past30_wins": 15,
+      "past30_losses": 15,
+      "random_top3_daily_mean": -38.4282463768,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 68700,
-      "random_random_avg": -38.7449490539,
-      "random_random_95_lo": -825.6666666667,
-      "random_random_95_hi": 1042.175,
-      "top3_vs_random_delta": -88.9129839884
+      "random_random_trials": 69000,
+      "random_random_avg": -38.4282463768,
+      "random_random_95_lo": -825.3333333333,
+      "random_random_95_hi": 1042.0083333333,
+      "top3_vs_random_delta": -87.9427681159
     }
   ],
   "machine_comparison": [
     {
       "machine_name": "マイジャグラーV",
-      "days": 259,
+      "days": 260,
       "machines": 14,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": 47.398835516739446,
-      "random_avg": 9.442736535662299,
-      "top3_vs_random_delta": 37.95609898107715,
-      "top3_plus_rate": 0.4192139737991266,
-      "predictive_power": "not_confirmed"
-    },
-    {
-      "machine_name": "ゴーゴージャグラー3",
-      "days": 259,
-      "machines": 8,
-      "best_profile": "carryover",
-      "top3_avg_diff": -42.8981077147016,
-      "random_avg": -70.49735807860262,
-      "top3_vs_random_delta": 27.599250363901014,
-      "top3_plus_rate": 0.38282387190684136,
+      "top3_avg_diff": 53.597101449275364,
+      "random_avg": 11.215079710144927,
+      "top3_vs_random_delta": 42.38202173913044,
+      "top3_plus_rate": 0.42028985507246375,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ネオアイムジャグラーEX",
-      "days": 222,
+      "days": 223,
       "machines": 6,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": -26.710069444444443,
-      "random_avg": -53.42338541666667,
-      "top3_vs_random_delta": 26.713315972222226,
-      "top3_plus_rate": 0.3715277777777778,
+      "top3_avg_diff": -22.05181347150259,
+      "random_avg": -50.93507772020725,
+      "top3_vs_random_delta": 28.883264248704663,
+      "top3_plus_rate": 0.37305699481865284,
+      "predictive_power": "not_confirmed"
+    },
+    {
+      "machine_name": "ゴーゴージャグラー3",
+      "days": 260,
+      "machines": 8,
+      "best_profile": "carryover",
+      "top3_avg_diff": -43.44202898550725,
+      "random_avg": -71.2520652173913,
+      "top3_vs_random_delta": 27.810036231884055,
+      "top3_plus_rate": 0.3826086956521739,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ジャグラーガールズSS",
-      "days": 259,
+      "days": 260,
       "machines": 4,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": -29.979621542940322,
-      "random_avg": -43.23340611353712,
-      "top3_vs_random_delta": 13.2537845705968,
-      "top3_plus_rate": 0.3609898107714702,
+      "top3_avg_diff": -31.543478260869566,
+      "random_avg": -45.11137681159421,
+      "top3_vs_random_delta": 13.567898550724646,
+      "top3_plus_rate": 0.35942028985507246,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ハッピージャグラーVⅢ",
-      "days": 259,
+      "days": 260,
       "machines": 4,
       "best_profile": "reg_quality",
-      "top3_avg_diff": -29.621542940320232,
-      "random_avg": -42.6664847161572,
-      "top3_vs_random_delta": 13.044941775836968,
-      "top3_plus_rate": 0.363901018922853,
-      "predictive_power": "not_confirmed"
-    },
-    {
-      "machine_name": "ファンキージャグラー2",
-      "days": 259,
-      "machines": 7,
-      "best_profile": "raise_after_weak",
-      "top3_avg_diff": -38.45269286754003,
-      "random_avg": -23.10428675400291,
-      "top3_vs_random_delta": -15.34840611353712,
-      "top3_plus_rate": 0.4032023289665211,
+      "top3_avg_diff": -29.923188405797102,
+      "random_avg": -41.499717391304344,
+      "top3_vs_random_delta": 11.576528985507242,
+      "top3_plus_rate": 0.36376811594202896,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "アイムジャグラーEX",
-      "days": 259,
+      "days": 260,
       "machines": 18,
       "best_profile": "carryover",
-      "top3_avg_diff": -75.74526928675401,
-      "random_avg": -59.70527656477438,
-      "top3_vs_random_delta": -16.03999272197963,
-      "top3_plus_rate": 0.3435225618631732,
+      "top3_avg_diff": -74.30724637681159,
+      "random_avg": -59.821978260869564,
+      "top3_vs_random_delta": -14.485268115942027,
+      "top3_plus_rate": 0.34492753623188405,
+      "predictive_power": "not_confirmed"
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "days": 260,
+      "machines": 7,
+      "best_profile": "raise_after_weak",
+      "top3_avg_diff": -39.22898550724638,
+      "random_avg": -23.62913043478261,
+      "top3_vs_random_delta": -15.599855072463768,
+      "top3_plus_rate": 0.4028985507246377,
       "predictive_power": "not_confirmed"
     }
   ],
   "hypotheses": [
     {
       "hypothesis": "前日凹み台が翌日強いのか",
-      "sample_size": 953,
-      "avg_diff": -31.9160545645,
-      "win_rate": 0.3913955929,
-      "avg_reg_probability": 455.3273795122,
-      "random_diff_delta": 2.5163089214,
+      "sample_size": 954,
+      "avg_diff": -32.6331236897,
+      "win_rate": 0.3909853249,
+      "avg_reg_probability": 455.566484413,
+      "random_diff_delta": 1.5187307059,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "前日強かった台が翌日も強いのか",
-      "sample_size": 1432,
-      "avg_diff": -64.0432960894,
-      "win_rate": 0.3631284916,
-      "avg_reg_probability": 461.9575472427,
-      "random_diff_delta": -29.6109326035,
+      "sample_size": 1439,
+      "avg_diff": -64.2202918694,
+      "win_rate": 0.362751911,
+      "avg_reg_probability": 461.6966685161,
+      "random_diff_delta": -30.0684374737,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "台番号に強弱があるか",
-      "sample_size": 7220,
-      "avg_diff": -51.9005540166,
-      "win_rate": 0.3668975069,
-      "avg_reg_probability": 466.2217250268,
-      "random_diff_delta": -17.4681905307,
+      "sample_size": 7248,
+      "avg_diff": -51.5434602649,
+      "win_rate": 0.3669977925,
+      "avg_reg_probability": 466.0000428818,
+      "random_diff_delta": -17.3916058693,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "台番号末尾に傾向があるか",
-      "sample_size": 9065,
-      "avg_diff": -29.4817429675,
-      "win_rate": 0.3747380033,
-      "avg_reg_probability": 456.4903353409,
-      "random_diff_delta": 4.9506205185,
+      "sample_size": 9100,
+      "avg_diff": -29.2462637363,
+      "win_rate": 0.3746153846,
+      "avg_reg_probability": 456.3864140217,
+      "random_diff_delta": 4.9055906593,
       "judgement": "check_numbers_only"
     },
     {
@@ -540,34 +543,34 @@
       "avg_diff": -19.2725840336,
       "win_rate": 0.3823529412,
       "avg_reg_probability": 453.0437268697,
-      "random_diff_delta": 15.1597794523,
+      "random_diff_delta": 14.879270362,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "曜日による違いがあるか",
-      "sample_size": 6216,
-      "avg_diff": -12.957046332,
-      "win_rate": 0.3852960103,
-      "avg_reg_probability": 455.4090192693,
-      "random_diff_delta": 21.4753171539,
+      "sample_size": 6272,
+      "avg_diff": -12.4976084184,
+      "win_rate": 0.3850446429,
+      "avg_reg_probability": 454.9786864766,
+      "random_diff_delta": 21.6542459772,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "直近3-7日の弱い台を上げる傾向があるか",
-      "sample_size": 8304,
-      "avg_diff": -20.6570327553,
-      "win_rate": 0.3845134875,
-      "avg_reg_probability": 451.3279445057,
-      "random_diff_delta": 13.7753307306,
+      "sample_size": 8327,
+      "avg_diff": -20.2642007926,
+      "win_rate": 0.3845322445,
+      "avg_reg_probability": 451.1269620129,
+      "random_diff_delta": 13.887653603,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "隣接した複数台が同時に強くなる傾向があるか",
-      "sample_size": 1439,
-      "avg_diff": 1761.532314107,
+      "sample_size": 1448,
+      "avg_diff": 1760.8114640884,
       "win_rate": 1.0,
-      "avg_reg_probability": 326.4420520512,
-      "random_diff_delta": 1795.964677593,
+      "avg_reg_probability": 326.0572027979,
+      "random_diff_delta": 1794.963318484,
       "judgement": "check_numbers_only"
     }
   ],
@@ -575,510 +578,230 @@
     "by_machine_avg_diff": [
       {
         "machine_number": "580",
-        "avg_diff": -11.7258687259
+        "avg_diff": -16.8346153846
       },
       {
         "machine_number": "581",
-        "avg_diff": 32.833976834
+        "avg_diff": 32.1423076923
       },
       {
         "machine_number": "582",
-        "avg_diff": 53.6138996139
+        "avg_diff": 60.0769230769
       },
       {
         "machine_number": "583",
-        "avg_diff": 51.9189189189
+        "avg_diff": 56.2076923077
       },
       {
         "machine_number": "585",
-        "avg_diff": 113.3706563707
+        "avg_diff": 115.5423076923
       },
       {
         "machine_number": "586",
-        "avg_diff": 7.3359073359
+        "avg_diff": 5.3038461538
       },
       {
         "machine_number": "587",
-        "avg_diff": -25.1274131274
+        "avg_diff": -27.7846153846
       },
       {
         "machine_number": "588",
-        "avg_diff": -25.1428571429
+        "avg_diff": -22.4230769231
       },
       {
         "machine_number": "600",
-        "avg_diff": -13.4092664093
+        "avg_diff": -13.9692307692
       },
       {
         "machine_number": "601",
-        "avg_diff": -50.2084942085
+        "avg_diff": -48.1538461538
       },
       {
         "machine_number": "602",
-        "avg_diff": -63.2586872587
+        "avg_diff": -63.3423076923
       },
       {
         "machine_number": "603",
-        "avg_diff": -60.3127413127
+        "avg_diff": -60.3538461538
       },
       {
         "machine_number": "605",
-        "avg_diff": -76.38996139
+        "avg_diff": -78.3307692308
       },
       {
         "machine_number": "606",
-        "avg_diff": -58.2818532819
+        "avg_diff": -56.65
       },
       {
         "machine_number": "607",
-        "avg_diff": -58.9227799228
+        "avg_diff": -52.2961538462
       },
       {
         "machine_number": "608",
-        "avg_diff": -49.1969111969
+        "avg_diff": -48.8307692308
       },
       {
         "machine_number": "610",
-        "avg_diff": -99.0656370656
+        "avg_diff": -91.8269230769
       },
       {
         "machine_number": "611",
-        "avg_diff": -33.7297297297
+        "avg_diff": -34.3884615385
       },
       {
         "machine_number": "612",
-        "avg_diff": -40.2934362934
+        "avg_diff": -39.6153846154
       },
       {
         "machine_number": "613",
-        "avg_diff": -61.7644787645
+        "avg_diff": -64.7192307692
       },
       {
         "machine_number": "615",
-        "avg_diff": -52.5096525097
+        "avg_diff": -53.0884615385
       },
       {
         "machine_number": "616",
-        "avg_diff": -56.0656370656
+        "avg_diff": -57.9153846154
       },
       {
         "machine_number": "617",
-        "avg_diff": -2.6254826255
+        "avg_diff": 3.2461538462
       },
       {
         "machine_number": "618",
-        "avg_diff": 62.0540540541
+        "avg_diff": 60.7038461538
       },
       {
         "machine_number": "620",
-        "avg_diff": -28.9536679537
+        "avg_diff": -23.8538461538
       },
       {
         "machine_number": "621",
-        "avg_diff": 105.2741312741
+        "avg_diff": 105.0961538462
       },
       {
         "machine_number": "622",
-        "avg_diff": 55.7181467181
+        "avg_diff": 66.9423076923
       },
       {
         "machine_number": "623",
-        "avg_diff": -28.9613899614
+        "avg_diff": -28.6
       },
       {
         "machine_number": "625",
-        "avg_diff": -46.416988417
+        "avg_diff": -45.7115384615
       },
       {
         "machine_number": "626",
-        "avg_diff": -52.3783783784
+        "avg_diff": -52.9961538462
       },
       {
         "machine_number": "627",
-        "avg_diff": 6.1081081081
+        "avg_diff": 4.1230769231
       },
       {
         "machine_number": "628",
-        "avg_diff": -13.7567567568
+        "avg_diff": -11.4923076923
       },
       {
         "machine_number": "630",
-        "avg_diff": -3.3861003861
+        "avg_diff": -4.4423076923
       },
       {
         "machine_number": "631",
-        "avg_diff": -31.0386100386
+        "avg_diff": -32.2346153846
       },
       {
         "machine_number": "632",
-        "avg_diff": -9.2277992278
+        "avg_diff": -11.45
       },
       {
         "machine_number": "633",
-        "avg_diff": -30.9575289575
+        "avg_diff": -32.2961538462
       },
       {
         "machine_number": "635",
-        "avg_diff": -80.5366795367
+        "avg_diff": -74.75
       },
       {
         "machine_number": "636",
-        "avg_diff": 17.3436293436
+        "avg_diff": 16.8730769231
       },
       {
         "machine_number": "637",
-        "avg_diff": -54.1505791506
+        "avg_diff": -58.4846153846
       },
       {
         "machine_number": "638",
-        "avg_diff": -117.0540540541
+        "avg_diff": -119.4769230769
       },
       {
         "machine_number": "650",
-        "avg_diff": -76.6061776062
+        "avg_diff": -76.4153846154
       },
       {
         "machine_number": "651",
-        "avg_diff": -118.1351351351
+        "avg_diff": -118.6192307692
       },
       {
         "machine_number": "652",
-        "avg_diff": -136.2972972973
+        "avg_diff": -138.5076923077
       },
       {
         "machine_number": "653",
-        "avg_diff": -22.1930501931
+        "avg_diff": -24.0153846154
       },
       {
         "machine_number": "655",
-        "avg_diff": 50.3474903475
+        "avg_diff": 49.9653846154
       },
       {
         "machine_number": "656",
-        "avg_diff": -46.4054054054
+        "avg_diff": -47.5384615385
       },
       {
         "machine_number": "657",
-        "avg_diff": -52.6872586873
+        "avg_diff": -51.2269230769
       },
       {
         "machine_number": "658",
-        "avg_diff": -68.9266409266
+        "avg_diff": -63.8807692308
       },
       {
         "machine_number": "660",
-        "avg_diff": -50.3474903475
+        "avg_diff": -50.5076923077
       },
       {
         "machine_number": "661",
-        "avg_diff": -182.7413127413
+        "avg_diff": -183.6692307692
       },
       {
         "machine_number": "662",
-        "avg_diff": -62.5752895753
+        "avg_diff": -64.0
       },
       {
         "machine_number": "663",
-        "avg_diff": -32.6447876448
+        "avg_diff": -33.6076923077
       },
       {
         "machine_number": "665",
-        "avg_diff": -102.7799227799
+        "avg_diff": -105.2653846154
       },
       {
         "machine_number": "666",
-        "avg_diff": -23.8455598456
+        "avg_diff": -26.1538461538
       },
       {
         "machine_number": "667",
-        "avg_diff": -50.0077220077
+        "avg_diff": -53.2
       },
       {
         "machine_number": "668",
-        "avg_diff": -123.0888030888
+        "avg_diff": -125.8076923077
       }
     ],
     "heatmap": [
-      {
-        "date": "2026-08-03",
-        "machine_number": "605",
-        "difference_medals": -505
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "606",
-        "difference_medals": -918
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "607",
-        "difference_medals": -1368
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "608",
-        "difference_medals": 20
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "610",
-        "difference_medals": -417
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "611",
-        "difference_medals": -676
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "612",
-        "difference_medals": 53
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "613",
-        "difference_medals": -673
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "615",
-        "difference_medals": -364
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "616",
-        "difference_medals": 260
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "617",
-        "difference_medals": 328
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "618",
-        "difference_medals": 141
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "620",
-        "difference_medals": 592
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "621",
-        "difference_medals": 625
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "622",
-        "difference_medals": 928
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "623",
-        "difference_medals": -569
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "625",
-        "difference_medals": 1579
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "626",
-        "difference_medals": -68
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "627",
-        "difference_medals": -542
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "628",
-        "difference_medals": -726
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "630",
-        "difference_medals": -387
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "631",
-        "difference_medals": -457
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "632",
-        "difference_medals": -159
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "633",
-        "difference_medals": -110
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "635",
-        "difference_medals": -825
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "636",
-        "difference_medals": -395
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "637",
-        "difference_medals": -344
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "638",
-        "difference_medals": -100
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "650",
-        "difference_medals": 263
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "651",
-        "difference_medals": -256
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "652",
-        "difference_medals": 543
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "653",
-        "difference_medals": -282
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "655",
-        "difference_medals": -214
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "656",
-        "difference_medals": -643
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "657",
-        "difference_medals": -517
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "658",
-        "difference_medals": -1084
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "660",
-        "difference_medals": -53
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "661",
-        "difference_medals": -1196
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "662",
-        "difference_medals": -229
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "663",
-        "difference_medals": -755
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "665",
-        "difference_medals": -758
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "666",
-        "difference_medals": -400
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "667",
-        "difference_medals": -266
-      },
-      {
-        "date": "2026-08-03",
-        "machine_number": "668",
-        "difference_medals": -1264
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "580",
-        "difference_medals": 168
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "581",
-        "difference_medals": -646
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "582",
-        "difference_medals": -338
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "583",
-        "difference_medals": 178
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "585",
-        "difference_medals": -337
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "586",
-        "difference_medals": -548
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "587",
-        "difference_medals": 312
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "588",
-        "difference_medals": -415
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "600",
-        "difference_medals": -473
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "601",
-        "difference_medals": -264
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "602",
-        "difference_medals": -278
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "603",
-        "difference_medals": 96
-      },
       {
         "date": "2026-08-04",
         "machine_number": "605",
@@ -8298,6 +8021,286 @@
         "date": "2026-08-31",
         "machine_number": "668",
         "difference_medals": 783
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "580",
+        "difference_medals": -1340
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "581",
+        "difference_medals": -147
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "582",
+        "difference_medals": 1734
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "583",
+        "difference_medals": 1167
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "585",
+        "difference_medals": 678
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "586",
+        "difference_medals": -521
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "587",
+        "difference_medals": -716
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "588",
+        "difference_medals": 682
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "600",
+        "difference_medals": -159
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "601",
+        "difference_medals": 484
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "602",
+        "difference_medals": -85
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "603",
+        "difference_medals": -71
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "605",
+        "difference_medals": -581
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "606",
+        "difference_medals": 366
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "607",
+        "difference_medals": 1664
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "608",
+        "difference_medals": 46
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "610",
+        "difference_medals": 1783
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "611",
+        "difference_medals": -205
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "612",
+        "difference_medals": 136
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "613",
+        "difference_medals": -830
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "615",
+        "difference_medals": -203
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "616",
+        "difference_medals": -537
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "617",
+        "difference_medals": 1524
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "618",
+        "difference_medals": -289
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "620",
+        "difference_medals": 1297
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "621",
+        "difference_medals": 59
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "622",
+        "difference_medals": 2974
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "623",
+        "difference_medals": 65
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "625",
+        "difference_medals": 137
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "626",
+        "difference_medals": -213
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "627",
+        "difference_medals": -510
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "628",
+        "difference_medals": 575
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "630",
+        "difference_medals": -278
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "631",
+        "difference_medals": -342
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "632",
+        "difference_medals": -587
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "633",
+        "difference_medals": -379
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "635",
+        "difference_medals": 1424
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "636",
+        "difference_medals": -105
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "637",
+        "difference_medals": -1181
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "638",
+        "difference_medals": -747
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "650",
+        "difference_medals": -27
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "651",
+        "difference_medals": -244
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "652",
+        "difference_medals": -711
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "653",
+        "difference_medals": -496
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "655",
+        "difference_medals": -49
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "656",
+        "difference_medals": -341
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "657",
+        "difference_medals": 327
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "658",
+        "difference_medals": 1243
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "660",
+        "difference_medals": -92
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "661",
+        "difference_medals": -424
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "662",
+        "difference_medals": -433
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "663",
+        "difference_medals": -283
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "665",
+        "difference_medals": -749
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "666",
+        "difference_medals": -624
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "667",
+        "difference_medals": -880
+      },
+      {
+        "date": "2026-09-08",
+        "machine_number": "668",
+        "difference_medals": -830
       }
     ],
     "by_weekday_avg_diff": [
@@ -8307,7 +8310,7 @@
       },
       {
         "weekday": 1,
-        "avg_diff": 4.272556391
+        "avg_diff": 5.1501831502
       },
       {
         "weekday": 2,
@@ -13501,6 +13504,11 @@
         "date": "2026-08-31",
         "difference_medals": -336.6666666667,
         "cumulative": 1744.6666666667
+      },
+      {
+        "date": "2026-09-08",
+        "difference_medals": 1178.3333333333,
+        "cumulative": 2923.0
       }
     ]
   }

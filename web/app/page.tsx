@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import { SmallBarChart, SmallLine, SmallScatter } from "@/components/Charts";
 import { Metric } from "@/components/Metric";
+import { AnalysisChat } from "@/components/AnalysisChat";
 import type { DashboardPayload } from "@/lib/types";
 
 const DASHBOARDS = [
@@ -72,6 +73,10 @@ export default async function Home({ searchParams }: { searchParams?: Promise<{ 
           <div className="text-sm text-gray-700">翌日候補 {data.target_date}</div>
         </div>
       </header>
+
+      <section className="px-4 py-5">
+        <AnalysisChat />
+      </section>
 
       <section className="px-4 py-5">
         <h2 className="text-base font-semibold tracking-normal text-[#111827]">明日の候補</h2>
