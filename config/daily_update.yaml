@@ -20,3 +20,21 @@ jobs:
     score_profile: "raise_after_weak"
     db: "data/db/kicona_shinjuku3_juggler.sqlite"
     out: "web/public/dashboard_kicona_shinjuku3_juggler.json"
+  # 店舗IDはスロナビの店舗データURLが判明した時点で設定して有効化する。
+  # 例: https://slo-navi.com/data/2026-09-21-<hall_id>/
+  - id: tenman_ichigao
+    enabled: false
+    store: "TENMAN"
+    machine: "ジャグラー"
+    hall_id: ""
+    score_profile: "balanced"
+    db: "data/db/tenman_ichigao_juggler.sqlite"
+    out: "web/public/dashboard_tenman_ichigao_juggler.json"
+  - id: aobadai_kaikan
+    enabled: false
+    store: "青葉台会館"
+    machine: "ジャグラー"
+    hall_id: ""
+    score_profile: "balanced"
+    db: "data/db/aobadai_kaikan_juggler.sqlite"
+    out: "web/public/dashboard_aobadai_kaikan_juggler.json"

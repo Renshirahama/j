@@ -7,6 +7,7 @@ from pathlib import Path
 import pandas as pd
 
 from .backtest import compare_score_profiles, walk_forward_backtest
+from .cleaning import coverage_summary
 from .features import add_calendar_features, add_historical_features, features_for_prediction
 from .hypotheses import evaluate_hypotheses
 from .scoring import explain_row, score_candidates
@@ -58,6 +59,7 @@ def build_dashboard_payload(
         "machine_comparison": machine_comparison,
         "hypotheses": json.loads(hypotheses.to_json(orient="records", force_ascii=False)),
         "charts": charts,
+        "data_quality": coverage_summary(df),
     }
 
 

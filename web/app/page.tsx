@@ -102,6 +102,19 @@ export default async function Home({ searchParams }: { searchParams?: Promise<{ 
         <Metric label="採用スコア" value={String(data.backtest.score_profile || "balanced")} sub={`${data.backtest.past30_wins || 0}勝 / ${data.backtest.past30_losses || 0}敗`} />
       </section>
 
+      <section className="px-4 py-4">
+        <div className="rounded-md border border-[#d8dee8] bg-white px-3 py-3 text-sm">
+          <div className="font-semibold">データ品質</div>
+          <div className="mt-1 text-gray-600">
+            観測 {data.data_quality?.observed_days || 0}日 / 暦日 {data.data_quality?.calendar_span_days || 0}日
+            （日付欠損 {data.data_quality?.missing_calendar_days || 0}日）
+          </div>
+          <div className="mt-1 text-xs text-gray-500">
+            1日あたり中央値 {data.data_quality?.median_rows_per_day || 0}台。欠損日は0枚として補完せず、分析から自然に除外しています。
+          </div>
+        </div>
+      </section>
+
       <section className="px-4 py-5">
         <h2 className="text-base font-semibold tracking-normal">スコア別比較</h2>
         <div className="mt-3 overflow-x-auto rounded-md border border-[#d8dee8] bg-white">

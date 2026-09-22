@@ -16,6 +16,16 @@ export type DashboardPayload = {
   ranking: RankingRow[];
   backtest: Record<string, number | string>;
   random: Record<string, number>;
+  data_quality?: {
+    observed_days: number;
+    first_date?: string | null;
+    last_date?: string | null;
+    calendar_span_days: number;
+    missing_calendar_days: number;
+    median_rows_per_day: number;
+    gap_dates?: string[];
+    sparse_days?: string[];
+  };
   scorer_comparison?: Array<Record<string, number | string>>;
   machine_comparison?: Array<Record<string, number | string>>;
   hypotheses: Array<Record<string, number | string>>;

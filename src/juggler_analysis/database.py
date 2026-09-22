@@ -5,6 +5,8 @@ from pathlib import Path
 
 import pandas as pd
 
+from .cleaning import filter_valid_results
+
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS daily_machine_results (
@@ -89,6 +91,7 @@ def load_results(conn: sqlite3.Connection, store: str | None = None, machine_nam
     query += " ORDER BY date, machine_number"
     df = pd.read_sql_query(query, conn, params=params)
     if not df.empty:
+        df = filter_valid_results(df)
         df["date"] = pd.to_datetime(df["date"]).dt.date
         df["machine_number"] = df["machine_number"].astype(str)
     return df

@@ -1,93 +1,56 @@
 {
   "store": "キコーナ新宿三丁目店",
   "machine_name": "ジャグラー",
-  "latest_date": "2026-09-08",
-  "target_date": "2026-09-09",
+  "latest_date": "2026-09-20",
+  "target_date": "2026-09-21",
   "ranking": [
     {
-      "machine_name": "ファンキージャグラー2",
-      "machine_number": "627",
-      "score": 67.95,
+      "machine_name": "マイジャグラーV",
+      "machine_number": "580",
+      "score": 67.48,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "前日状態が凹み・連続マイナス寄り",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -281.8571428571,
+      "past_7d_reg_probability": 342.0707070707,
+      "prev_difference_medals": -1139.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "602",
+      "score": 65.14,
       "reasons": [
         "直近7日差枚が弱めで上げ候補として評価",
         "前日状態が凹み・連続マイナス寄り",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -600.0,
-      "past_7d_reg_probability": 445.6363636364,
-      "prev_difference_medals": -510.0
+      "past_7d_avg_diff": -622.0,
+      "past_7d_reg_probability": 556.2142857143,
+      "prev_difference_medals": -434.0
     },
     {
-      "machine_name": "ファンキージャグラー2",
-      "machine_number": "625",
-      "score": 65.61,
+      "machine_name": "マイジャグラーV",
+      "machine_number": "623",
+      "score": 63.3,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -646.2857142857,
-      "past_7d_reg_probability": 336.5773195876,
-      "prev_difference_medals": 137.0
-    },
-    {
-      "machine_name": "ファンキージャグラー2",
-      "machine_number": "630",
-      "score": 63.6,
-      "reasons": [
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -336.0,
-      "past_7d_reg_probability": 484.92,
-      "prev_difference_medals": -278.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "660",
-      "score": 63.27,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -354.7142857143,
-      "past_7d_reg_probability": 404.3636363636,
-      "prev_difference_medals": -92.0
-    },
-    {
-      "machine_name": "ネオアイムジャグラーEX",
-      "machine_number": "613",
-      "score": 61.4,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -253.0,
-      "past_7d_reg_probability": 283.96875,
-      "prev_difference_medals": -830.0
+      "past_7d_avg_diff": -172.8571428571,
+      "past_7d_reg_probability": 352.9673913043,
+      "prev_difference_medals": -1113.0
     },
     {
       "machine_name": "マイジャグラーV",
-      "machine_number": "661",
-      "score": 61.22,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -356.2857142857,
-      "past_7d_reg_probability": 393.3488372093,
-      "prev_difference_medals": -424.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "580",
-      "score": 60.95,
+      "machine_number": "585",
+      "score": 62.59,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "過去30日差枚の台別傾向が相対的に良い",
@@ -95,28 +58,82 @@
         "同機種内の台番号末尾傾向が相対的に良い",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": 255.1428571429,
-      "past_7d_reg_probability": 308.838028169,
-      "prev_difference_medals": -1340.0
+      "past_7d_avg_diff": 213.1428571429,
+      "past_7d_reg_probability": 288.4411764706,
+      "prev_difference_medals": -1368.0
     },
     {
-      "machine_name": "ハッピージャグラーVⅢ",
-      "machine_number": "656",
-      "score": 60.18,
+      "machine_name": "マイジャグラーV",
+      "machine_number": "582",
+      "score": 60.89,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
-        "過去30日差枚の台別傾向が相対的に良い",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -276.7142857143,
-      "past_7d_reg_probability": 331.4782608696,
-      "prev_difference_medals": -341.0
+      "past_7d_avg_diff": -367.0,
+      "past_7d_reg_probability": 332.53125,
+      "prev_difference_medals": 464.0
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "628",
+      "score": 60.68,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -371.2857142857,
+      "past_7d_reg_probability": 347.875,
+      "prev_difference_medals": -156.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "583",
+      "score": 59.24,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "過去30日差枚の台別傾向が相対的に良い",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 67.1428571429,
+      "past_7d_reg_probability": 352.8539325843,
+      "prev_difference_medals": -788.0
+    },
+    {
+      "machine_name": "ネオアイムジャグラーEX",
+      "machine_number": "613",
+      "score": 58.37,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "前日状態が凹み・連続マイナス寄り"
+      ],
+      "past_7d_avg_diff": -317.1428571429,
+      "past_7d_reg_probability": 333.6229508197,
+      "prev_difference_medals": -66.0
+    },
+    {
+      "machine_name": "ハッピージャグラーVⅢ",
+      "machine_number": "658",
+      "score": 58.31,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価"
+      ],
+      "past_7d_avg_diff": -624.5714285714,
+      "past_7d_reg_probability": 341.0344827586,
+      "prev_difference_medals": -770.0
     },
     {
       "machine_name": "アイムジャグラーEX",
       "machine_number": "608",
-      "score": 59.28,
+      "score": 57.94,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
@@ -128,141 +145,86 @@
       "prev_difference_medals": -56.0
     },
     {
-      "machine_name": "ハッピージャグラーVⅢ",
-      "machine_number": "663",
-      "score": 59.26,
+      "machine_name": "ゴーゴージャグラー3",
+      "machine_number": "633",
+      "score": 57.51,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価"
+      ],
+      "past_7d_avg_diff": -424.8571428571,
+      "past_7d_reg_probability": 338.3018867925,
+      "prev_difference_medals": -163.0
+    },
+    {
+      "machine_name": "ゴーゴージャグラー3",
+      "machine_number": "635",
+      "score": 56.75,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価"
+      ],
+      "past_7d_avg_diff": -282.1428571429,
+      "past_7d_reg_probability": 311.4615384615,
+      "prev_difference_medals": -256.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "622",
+      "score": 54.96,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "前日状態が凹み・連続マイナス寄り",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 439.7142857143,
+      "past_7d_reg_probability": 309.4803921569,
+      "prev_difference_medals": -824.0
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "627",
+      "score": 54.53,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "前日状態が凹み・連続マイナス寄り",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 49.4285714286,
+      "past_7d_reg_probability": 337.2142857143,
+      "prev_difference_medals": -1143.0
+    },
+    {
+      "machine_name": "アイムジャグラーEX",
+      "machine_number": "605",
+      "score": 54.24,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
         "同機種内の曜日傾向が相対的に良い"
       ],
-      "past_7d_avg_diff": -157.8571428571,
-      "past_7d_reg_probability": 288.4166666667,
-      "prev_difference_medals": -283.0
+      "past_7d_avg_diff": -271.4285714286,
+      "past_7d_reg_probability": 399.275,
+      "prev_difference_medals": -361.0
     },
     {
       "machine_name": "ゴーゴージャグラー3",
       "machine_number": "638",
-      "score": 58.27,
+      "score": 53.84,
       "reasons": [
         "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
+        "直近7日差枚が弱めで上げ候補として評価"
       ],
-      "past_7d_avg_diff": 67.0,
-      "past_7d_reg_probability": 247.7402597403,
-      "prev_difference_medals": -747.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "632",
-      "score": 57.85,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "前日状態が凹み・連続マイナス寄り",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -153.1428571429,
-      "past_7d_reg_probability": 408.1,
-      "prev_difference_medals": -587.0
-    },
-    {
-      "machine_name": "ファンキージャグラー2",
-      "machine_number": "662",
-      "score": 57.84,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "過去30日差枚の台別傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 95.5714285714,
-      "past_7d_reg_probability": 344.7777777778,
-      "prev_difference_medals": -433.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "618",
-      "score": 57.66,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "過去30日差枚の台別傾向が相対的に良い",
-        "同機種内の台番号末尾傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 587.4285714286,
-      "past_7d_reg_probability": 264.4408602151,
-      "prev_difference_medals": -289.0
-    },
-    {
-      "machine_name": "ジャグラーガールズSS",
-      "machine_number": "655",
-      "score": 57.53,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の台番号末尾傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -100.1428571429,
-      "past_7d_reg_probability": 325.8775510204,
-      "prev_difference_medals": -49.0
-    },
-    {
-      "machine_name": "ジャグラーガールズSS",
-      "machine_number": "653",
-      "score": 56.34,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の台番号末尾傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 1.1428571429,
-      "past_7d_reg_probability": 337.152173913,
-      "prev_difference_medals": -496.0
-    },
-    {
-      "machine_name": "アイムジャグラーEX",
-      "machine_number": "602",
-      "score": 55.73,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 83.5714285714,
-      "past_7d_reg_probability": 294.1754385965,
-      "prev_difference_medals": -85.0
-    },
-    {
-      "machine_name": "マイジャグラーV",
-      "machine_number": "586",
-      "score": 54.73,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "同機種内の台番号末尾傾向が相対的に良い",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": 263.4285714286,
-      "past_7d_reg_probability": 290.7662337662,
-      "prev_difference_medals": -521.0
-    },
-    {
-      "machine_name": "ネオアイムジャグラーEX",
-      "machine_number": "608",
-      "score": 54.32,
-      "reasons": [
-        "過去7日REG確率が相対的に良好",
-        "直近7日差枚が弱めで上げ候補として評価",
-        "同機種内の曜日傾向が相対的に良い"
-      ],
-      "past_7d_avg_diff": -279.7142857143,
-      "past_7d_reg_probability": 417.5897435897,
-      "prev_difference_medals": 46.0
+      "past_7d_avg_diff": -257.1428571429,
+      "past_7d_reg_probability": 298.3863636364,
+      "prev_difference_medals": -476.0
     },
     {
       "machine_name": "アイムジャグラーEX",
       "machine_number": "611",
-      "score": 54.25,
+      "score": 53.83,
       "reasons": [
         "過去7日REG確率が相対的に良好",
         "直近7日差枚が弱めで上げ候補として評価",
@@ -272,305 +234,345 @@
       "past_7d_avg_diff": -351.7142857143,
       "past_7d_reg_probability": 422.8333333333,
       "prev_difference_medals": 55.0
+    },
+    {
+      "machine_name": "ファンキージャグラー2",
+      "machine_number": "631",
+      "score": 53.54,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -253.2857142857,
+      "past_7d_reg_probability": 327.8846153846,
+      "prev_difference_medals": -119.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "620",
+      "score": 52.72,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "過去7日平均G数が高くサンプル信頼度が比較的高い",
+        "同機種内の台番号末尾傾向が相対的に良い",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": 186.8571428571,
+      "past_7d_reg_probability": 390.4588235294,
+      "prev_difference_medals": -210.0
+    },
+    {
+      "machine_name": "マイジャグラーV",
+      "machine_number": "587",
+      "score": 52.67,
+      "reasons": [
+        "過去7日REG確率が相対的に良好",
+        "直近7日差枚が弱めで上げ候補として評価",
+        "同機種内の曜日傾向が相対的に良い"
+      ],
+      "past_7d_avg_diff": -68.1428571429,
+      "past_7d_reg_probability": 377.358490566,
+      "prev_difference_medals": -202.0
     }
   ],
   "backtest": {
-    "evaluated_days": 230,
-    "top1_avg_diff": -82.7,
-    "top1_plus_rate": 0.3652173913043478,
-    "top3_avg_diff": 12.708695652173914,
-    "top3_plus_rate": 0.4057971014492754,
-    "top3_proxy_capture_rate": 0.05788256606990622,
-    "top5_avg_diff": 1.7408695652173913,
-    "top5_plus_rate": 0.39217391304347826,
-    "top5_proxy_capture_rate": 0.09288469735720375,
-    "top3_avg_reg_probability": 435.4728299417283,
-    "top3_avg_games": 3046.866666666667,
-    "past30_wins": 16,
-    "past30_losses": 14,
-    "random_top3_daily_mean": -35.62352608695653,
+    "evaluated_days": 237,
+    "top1_avg_diff": -83.48523206751055,
+    "top1_plus_rate": 0.3670886075949367,
+    "top3_avg_diff": 16.239099859353026,
+    "top3_plus_rate": 0.4078762306610408,
+    "top3_proxy_capture_rate": 0.05854637213535203,
+    "top5_avg_diff": 5.4261603375527425,
+    "top5_plus_rate": 0.39409282700421944,
+    "top5_proxy_capture_rate": 0.09330582443948043,
+    "top3_avg_reg_probability": 436.0984811910187,
+    "top3_avg_games": 3072.8537271448663,
+    "past30_wins": 18,
+    "past30_losses": 12,
+    "random_top3_daily_mean": -33.892390998593534,
     "predictive_power": "not_confirmed",
     "label_name": "same_machine_top20",
     "score_profile": "raise_after_weak"
   },
   "random": {
-    "random_trials": 230000,
-    "random_avg": -35.623526086956524,
-    "random_95_lo": -828.6666666666666,
-    "random_95_hi": 1061.3416666666647
+    "random_trials": 237000,
+    "random_avg": -33.89239099859353,
+    "random_95_lo": -828.0,
+    "random_95_hi": 1067.3333333333333
   },
   "scorer_comparison": [
     {
       "score_profile": "raise_after_weak",
-      "evaluated_days": 230,
-      "top1_avg_diff": -82.7,
-      "top1_plus_rate": 0.3652173913,
-      "top3_avg_diff": 12.7086956522,
-      "top3_plus_rate": 0.4057971014,
-      "top3_proxy_capture_rate": 0.0578825661,
-      "top5_avg_diff": 1.7408695652,
-      "top5_plus_rate": 0.392173913,
-      "top5_proxy_capture_rate": 0.0928846974,
-      "top3_avg_reg_probability": 435.4728299417,
-      "top3_avg_games": 3046.8666666667,
-      "past30_wins": 16,
-      "past30_losses": 14,
-      "random_top3_daily_mean": -38.4282463768,
+      "evaluated_days": 237,
+      "top1_avg_diff": -83.4852320675,
+      "top1_plus_rate": 0.3670886076,
+      "top3_avg_diff": 16.2390998594,
+      "top3_plus_rate": 0.4078762307,
+      "top3_proxy_capture_rate": 0.0585463721,
+      "top5_avg_diff": 5.4261603376,
+      "top5_plus_rate": 0.394092827,
+      "top5_proxy_capture_rate": 0.0933058244,
+      "top3_avg_reg_probability": 436.098481191,
+      "top3_avg_games": 3072.8537271449,
+      "past30_wins": 18,
+      "past30_losses": 12,
+      "random_top3_daily_mean": -36.6544256915,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 69000,
-      "random_random_avg": -38.4282463768,
-      "random_random_95_lo": -825.3333333333,
-      "random_random_95_hi": 1042.0083333333,
-      "top3_vs_random_delta": 51.136942029
+      "random_random_trials": 71100,
+      "random_random_avg": -36.6544256915,
+      "random_random_95_lo": -824.3333333333,
+      "random_random_95_hi": 1048.0,
+      "top3_vs_random_delta": 52.8935255509
     },
     {
       "score_profile": "balanced",
-      "evaluated_days": 230,
-      "top1_avg_diff": -1.4434782609,
-      "top1_plus_rate": 0.3826086957,
-      "top3_avg_diff": -34.4028985507,
-      "top3_plus_rate": 0.3826086957,
-      "top3_proxy_capture_rate": 0.0474658994,
-      "top5_avg_diff": -55.5026086957,
-      "top5_plus_rate": 0.3747826087,
-      "top5_proxy_capture_rate": 0.0776470588,
-      "top3_avg_reg_probability": 460.4384548409,
-      "top3_avg_games": 3151.8985507246,
-      "past30_wins": 13,
-      "past30_losses": 17,
-      "random_top3_daily_mean": -38.4282463768,
+      "evaluated_days": 237,
+      "top1_avg_diff": 9.1561181435,
+      "top1_plus_rate": 0.388185654,
+      "top3_avg_diff": -34.6554149086,
+      "top3_plus_rate": 0.3839662447,
+      "top3_proxy_capture_rate": 0.0473825184,
+      "top5_avg_diff": -52.8776371308,
+      "top5_plus_rate": 0.3780590717,
+      "top5_proxy_capture_rate": 0.0774633904,
+      "top3_avg_reg_probability": 458.5078878027,
+      "top3_avg_games": 3178.2180028129,
+      "past30_wins": 12,
+      "past30_losses": 18,
+      "random_top3_daily_mean": -36.6544256915,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 69000,
-      "random_random_avg": -38.4282463768,
-      "random_random_95_lo": -825.3333333333,
-      "random_random_95_hi": 1042.0083333333,
-      "top3_vs_random_delta": 4.0253478261
+      "random_random_trials": 71100,
+      "random_random_avg": -36.6544256915,
+      "random_random_95_lo": -824.3333333333,
+      "random_random_95_hi": 1048.0,
+      "top3_vs_random_delta": 1.9990107829
     },
     {
       "score_profile": "number_calendar",
-      "evaluated_days": 230,
-      "top1_avg_diff": -47.147826087,
-      "top1_plus_rate": 0.347826087,
-      "top3_avg_diff": -60.8231884058,
-      "top3_plus_rate": 0.384057971,
-      "top3_proxy_capture_rate": 0.0463608269,
-      "top5_avg_diff": -18.827826087,
-      "top5_plus_rate": 0.4034782609,
-      "top5_proxy_capture_rate": 0.082918798,
-      "top3_avg_reg_probability": 468.2332995383,
-      "top3_avg_games": 2934.7724637681,
+      "evaluated_days": 237,
+      "top1_avg_diff": -46.0421940928,
+      "top1_plus_rate": 0.3459915612,
+      "top3_avg_diff": -53.7158931083,
+      "top3_plus_rate": 0.388185654,
+      "top3_proxy_capture_rate": 0.0465737983,
+      "top5_avg_diff": -17.7603375527,
+      "top5_plus_rate": 0.4042194093,
+      "top5_proxy_capture_rate": 0.0831068503,
+      "top3_avg_reg_probability": 465.7427304244,
+      "top3_avg_games": 2973.5218002813,
       "past30_wins": 16,
       "past30_losses": 14,
-      "random_top3_daily_mean": -38.4282463768,
+      "random_top3_daily_mean": -36.6544256915,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 69000,
-      "random_random_avg": -38.4282463768,
-      "random_random_95_lo": -825.3333333333,
-      "random_random_95_hi": 1042.0083333333,
-      "top3_vs_random_delta": -22.394942029
+      "random_random_trials": 71100,
+      "random_random_avg": -36.6544256915,
+      "random_random_95_lo": -824.3333333333,
+      "random_random_95_hi": 1048.0,
+      "top3_vs_random_delta": -17.0614674168
     },
     {
       "score_profile": "reg_quality",
-      "evaluated_days": 230,
-      "top1_avg_diff": -48.5956521739,
-      "top1_plus_rate": 0.3695652174,
-      "top3_avg_diff": -70.5971014493,
-      "top3_plus_rate": 0.368115942,
-      "top3_proxy_capture_rate": 0.0464332907,
-      "top5_avg_diff": -77.3573913043,
-      "top5_plus_rate": 0.372173913,
-      "top5_proxy_capture_rate": 0.0751651748,
-      "top3_avg_reg_probability": 464.4818518032,
-      "top3_avg_games": 2936.0043478261,
-      "past30_wins": 10,
-      "past30_losses": 20,
-      "random_top3_daily_mean": -38.4282463768,
+      "evaluated_days": 237,
+      "top1_avg_diff": -49.0970464135,
+      "top1_plus_rate": 0.3713080169,
+      "top3_avg_diff": -64.323488045,
+      "top3_plus_rate": 0.3727144866,
+      "top3_proxy_capture_rate": 0.0466441218,
+      "top5_avg_diff": -75.176371308,
+      "top5_plus_rate": 0.3738396624,
+      "top5_proxy_capture_rate": 0.0747910979,
+      "top3_avg_reg_probability": 462.3330540116,
+      "top3_avg_games": 2974.2405063291,
+      "past30_wins": 11,
+      "past30_losses": 19,
+      "random_top3_daily_mean": -36.6544256915,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 69000,
-      "random_random_avg": -38.4282463768,
-      "random_random_95_lo": -825.3333333333,
-      "random_random_95_hi": 1042.0083333333,
-      "top3_vs_random_delta": -32.1688550725
+      "random_random_trials": 71100,
+      "random_random_avg": -36.6544256915,
+      "random_random_95_lo": -824.3333333333,
+      "random_random_95_hi": 1048.0,
+      "top3_vs_random_delta": -27.6690623535
     },
     {
       "score_profile": "carryover",
-      "evaluated_days": 230,
-      "top1_avg_diff": -147.8695652174,
-      "top1_plus_rate": 0.3260869565,
-      "top3_avg_diff": -126.3710144928,
-      "top3_plus_rate": 0.352173913,
-      "top3_proxy_capture_rate": 0.042266624,
-      "top5_avg_diff": -88.1069565217,
-      "top5_plus_rate": 0.367826087,
-      "top5_proxy_capture_rate": 0.074150682,
-      "top3_avg_reg_probability": 470.9961517896,
-      "top3_avg_games": 2871.6782608696,
-      "past30_wins": 15,
-      "past30_losses": 15,
-      "random_top3_daily_mean": -38.4282463768,
+      "evaluated_days": 237,
+      "top1_avg_diff": -153.9240506329,
+      "top1_plus_rate": 0.3206751055,
+      "top3_avg_diff": -119.8466947961,
+      "top3_plus_rate": 0.3558368495,
+      "top3_proxy_capture_rate": 0.0423368081,
+      "top5_avg_diff": -81.4582278481,
+      "top5_plus_rate": 0.3696202532,
+      "top5_proxy_capture_rate": 0.0740702821,
+      "top3_avg_reg_probability": 469.7506190819,
+      "top3_avg_games": 2902.5105485232,
+      "past30_wins": 14,
+      "past30_losses": 16,
+      "random_top3_daily_mean": -36.6544256915,
       "predictive_power": "not_confirmed",
       "label_name": "same_machine_top20",
-      "random_random_trials": 69000,
-      "random_random_avg": -38.4282463768,
-      "random_random_95_lo": -825.3333333333,
-      "random_random_95_hi": 1042.0083333333,
-      "top3_vs_random_delta": -87.9427681159
+      "random_random_trials": 71100,
+      "random_random_avg": -36.6544256915,
+      "random_random_95_lo": -824.3333333333,
+      "random_random_95_hi": 1048.0,
+      "top3_vs_random_delta": -83.1922691045
     }
   ],
   "machine_comparison": [
     {
       "machine_name": "マイジャグラーV",
-      "days": 260,
+      "days": 267,
       "machines": 14,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": 53.597101449275364,
-      "random_avg": 11.215079710144927,
-      "top3_vs_random_delta": 42.38202173913044,
-      "top3_plus_rate": 0.42028985507246375,
+      "top3_avg_diff": 58.28410689170183,
+      "random_avg": 13.323846694796062,
+      "top3_vs_random_delta": 44.96026019690577,
+      "top3_plus_rate": 0.42334739803094235,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ネオアイムジャグラーEX",
-      "days": 223,
+      "days": 230,
       "machines": 6,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": -22.05181347150259,
-      "random_avg": -50.93507772020725,
-      "top3_vs_random_delta": 28.883264248704663,
-      "top3_plus_rate": 0.37305699481865284,
+      "top3_avg_diff": -16.743333333333332,
+      "random_avg": -49.270125,
+      "top3_vs_random_delta": 32.52679166666667,
+      "top3_plus_rate": 0.37666666666666665,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ゴーゴージャグラー3",
-      "days": 260,
+      "days": 267,
       "machines": 8,
       "best_profile": "carryover",
-      "top3_avg_diff": -43.44202898550725,
-      "random_avg": -71.2520652173913,
-      "top3_vs_random_delta": 27.810036231884055,
-      "top3_plus_rate": 0.3826086956521739,
+      "top3_avg_diff": -42.144866385372715,
+      "random_avg": -70.45495780590717,
+      "top3_vs_random_delta": 28.310091420534455,
+      "top3_plus_rate": 0.38677918424753865,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ジャグラーガールズSS",
-      "days": 260,
+      "days": 267,
       "machines": 4,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": -31.543478260869566,
-      "random_avg": -45.11137681159421,
-      "top3_vs_random_delta": 13.567898550724646,
-      "top3_plus_rate": 0.35942028985507246,
+      "top3_avg_diff": -28.780590717299578,
+      "random_avg": -42.69260196905767,
+      "top3_vs_random_delta": 13.912011251758091,
+      "top3_plus_rate": 0.360056258790436,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ハッピージャグラーVⅢ",
-      "days": 260,
+      "days": 267,
       "machines": 4,
       "best_profile": "reg_quality",
-      "top3_avg_diff": -29.923188405797102,
-      "random_avg": -41.499717391304344,
-      "top3_vs_random_delta": 11.576528985507242,
-      "top3_plus_rate": 0.36376811594202896,
+      "top3_avg_diff": -32.50351617440225,
+      "random_avg": -46.05708157524613,
+      "top3_vs_random_delta": 13.55356540084388,
+      "top3_plus_rate": 0.3628691983122363,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "アイムジャグラーEX",
-      "days": 260,
+      "days": 267,
       "machines": 18,
       "best_profile": "carryover",
-      "top3_avg_diff": -74.30724637681159,
-      "random_avg": -59.821978260869564,
-      "top3_vs_random_delta": -14.485268115942027,
-      "top3_plus_rate": 0.34492753623188405,
+      "top3_avg_diff": -69.31504922644163,
+      "random_avg": -58.69765119549929,
+      "top3_vs_random_delta": -10.61739803094234,
+      "top3_plus_rate": 0.3431786216596343,
       "predictive_power": "not_confirmed"
     },
     {
       "machine_name": "ファンキージャグラー2",
-      "days": 260,
+      "days": 267,
       "machines": 7,
       "best_profile": "raise_after_weak",
-      "top3_avg_diff": -39.22898550724638,
-      "random_avg": -23.62913043478261,
-      "top3_vs_random_delta": -15.599855072463768,
-      "top3_plus_rate": 0.4028985507246377,
+      "top3_avg_diff": -34.909985935302394,
+      "random_avg": -23.412257383966246,
+      "top3_vs_random_delta": -11.497728551336149,
+      "top3_plus_rate": 0.40365682137834036,
       "predictive_power": "not_confirmed"
     }
   ],
   "hypotheses": [
     {
       "hypothesis": "前日凹み台が翌日強いのか",
-      "sample_size": 954,
-      "avg_diff": -32.6331236897,
-      "win_rate": 0.3909853249,
-      "avg_reg_probability": 455.566484413,
-      "random_diff_delta": 1.5187307059,
+      "sample_size": 983,
+      "avg_diff": -25.6795523906,
+      "win_rate": 0.3957273652,
+      "avg_reg_probability": 455.3311824053,
+      "random_diff_delta": 7.0501827618,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "前日強かった台が翌日も強いのか",
-      "sample_size": 1439,
-      "avg_diff": -64.2202918694,
-      "win_rate": 0.362751911,
-      "avg_reg_probability": 461.6966685161,
-      "random_diff_delta": -30.0684374737,
+      "sample_size": 1494,
+      "avg_diff": -57.9029451138,
+      "win_rate": 0.3634538153,
+      "avg_reg_probability": 462.4036905801,
+      "random_diff_delta": -25.1732099613,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "台番号に強弱があるか",
-      "sample_size": 7248,
-      "avg_diff": -51.5434602649,
-      "win_rate": 0.3669977925,
-      "avg_reg_probability": 466.0000428818,
-      "random_diff_delta": -17.3916058693,
+      "sample_size": 7444,
+      "avg_diff": -49.1933100484,
+      "win_rate": 0.3679473401,
+      "avg_reg_probability": 465.2415771851,
+      "random_diff_delta": -16.4635748959,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "台番号末尾に傾向があるか",
-      "sample_size": 9100,
-      "avg_diff": -29.2462637363,
-      "win_rate": 0.3746153846,
-      "avg_reg_probability": 456.3864140217,
-      "random_diff_delta": 4.9055906593,
+      "sample_size": 9345,
+      "avg_diff": -28.7845906902,
+      "win_rate": 0.3744248261,
+      "avg_reg_probability": 457.1354605538,
+      "random_diff_delta": 3.9451444623,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "特定日に強い位置が変化するか",
-      "sample_size": 3808,
-      "avg_diff": -19.2725840336,
-      "win_rate": 0.3823529412,
-      "avg_reg_probability": 453.0437268697,
-      "random_diff_delta": 14.879270362,
+      "sample_size": 3920,
+      "avg_diff": -18.8903061224,
+      "win_rate": 0.3816326531,
+      "avg_reg_probability": 453.1261844807,
+      "random_diff_delta": 13.83942903,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "曜日による違いがあるか",
-      "sample_size": 6272,
-      "avg_diff": -12.4976084184,
-      "win_rate": 0.3850446429,
-      "avg_reg_probability": 454.9786864766,
-      "random_diff_delta": 21.6542459772,
+      "sample_size": 6496,
+      "avg_diff": -7.4322660099,
+      "win_rate": 0.3882389163,
+      "avg_reg_probability": 454.2918839512,
+      "random_diff_delta": 25.2974691426,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "直近3-7日の弱い台を上げる傾向があるか",
-      "sample_size": 8327,
-      "avg_diff": -20.2642007926,
-      "win_rate": 0.3845322445,
-      "avg_reg_probability": 451.1269620129,
-      "random_diff_delta": 13.887653603,
+      "sample_size": 8492,
+      "avg_diff": -20.2532972209,
+      "win_rate": 0.384597268,
+      "avg_reg_probability": 451.8943914279,
+      "random_diff_delta": 12.4764379316,
       "judgement": "check_numbers_only"
     },
     {
       "hypothesis": "隣接した複数台が同時に強くなる傾向があるか",
-      "sample_size": 1448,
-      "avg_diff": 1760.8114640884,
+      "sample_size": 1500,
+      "avg_diff": 1758.6326666667,
       "win_rate": 1.0,
-      "avg_reg_probability": 326.0572027979,
-      "random_diff_delta": 1794.963318484,
+      "avg_reg_probability": 325.5443010658,
+      "random_diff_delta": 1791.3624018192,
       "judgement": "check_numbers_only"
     }
   ],
@@ -578,2190 +580,230 @@
     "by_machine_avg_diff": [
       {
         "machine_number": "580",
-        "avg_diff": -16.8346153846
+        "avg_diff": -23.7827715356
       },
       {
         "machine_number": "581",
-        "avg_diff": 32.1423076923
+        "avg_diff": 36.34082397
       },
       {
         "machine_number": "582",
-        "avg_diff": 60.0769230769
+        "avg_diff": 48.8801498127
       },
       {
         "machine_number": "583",
-        "avg_diff": 56.2076923077
+        "avg_diff": 56.4943820225
       },
       {
         "machine_number": "585",
-        "avg_diff": 115.5423076923
+        "avg_diff": 118.1011235955
       },
       {
         "machine_number": "586",
-        "avg_diff": 5.3038461538
+        "avg_diff": 10.6966292135
       },
       {
         "machine_number": "587",
-        "avg_diff": -27.7846153846
+        "avg_diff": -28.8426966292
       },
       {
         "machine_number": "588",
-        "avg_diff": -22.4230769231
+        "avg_diff": -17.7490636704
       },
       {
         "machine_number": "600",
-        "avg_diff": -13.9692307692
+        "avg_diff": -13.0936329588
       },
       {
         "machine_number": "601",
-        "avg_diff": -48.1538461538
+        "avg_diff": -37.0187265918
       },
       {
         "machine_number": "602",
-        "avg_diff": -63.3423076923
+        "avg_diff": -77.9887640449
       },
       {
         "machine_number": "603",
-        "avg_diff": -60.3538461538
+        "avg_diff": -58.8127340824
       },
       {
         "machine_number": "605",
-        "avg_diff": -78.3307692308
+        "avg_diff": -83.393258427
       },
       {
         "machine_number": "606",
-        "avg_diff": -56.65
+        "avg_diff": -53.4943820225
       },
       {
         "machine_number": "607",
-        "avg_diff": -52.2961538462
+        "avg_diff": -55.3483146067
       },
       {
         "machine_number": "608",
-        "avg_diff": -48.8307692308
+        "avg_diff": -54.8239700375
       },
       {
         "machine_number": "610",
-        "avg_diff": -91.8269230769
+        "avg_diff": -78.5880149813
       },
       {
         "machine_number": "611",
-        "avg_diff": -34.3884615385
+        "avg_diff": -28.9662921348
       },
       {
         "machine_number": "612",
-        "avg_diff": -39.6153846154
+        "avg_diff": -33.3745318352
       },
       {
         "machine_number": "613",
-        "avg_diff": -64.7192307692
+        "avg_diff": -71.3370786517
       },
       {
         "machine_number": "615",
-        "avg_diff": -53.0884615385
+        "avg_diff": -54.1498127341
       },
       {
         "machine_number": "616",
-        "avg_diff": -57.9153846154
+        "avg_diff": -49.1086142322
       },
       {
         "machine_number": "617",
-        "avg_diff": 3.2461538462
+        "avg_diff": 8.5243445693
       },
       {
         "machine_number": "618",
-        "avg_diff": 60.7038461538
+        "avg_diff": 65.9063670412
       },
       {
         "machine_number": "620",
-        "avg_diff": -23.8538461538
+        "avg_diff": -18.329588015
       },
       {
         "machine_number": "621",
-        "avg_diff": 105.0961538462
+        "avg_diff": 115.1872659176
       },
       {
         "machine_number": "622",
-        "avg_diff": 66.9423076923
+        "avg_diff": 76.7153558052
       },
       {
         "machine_number": "623",
-        "avg_diff": -28.6
+        "avg_diff": -32.3820224719
       },
       {
         "machine_number": "625",
-        "avg_diff": -45.7115384615
+        "avg_diff": -39.9213483146
       },
       {
         "machine_number": "626",
-        "avg_diff": -52.9961538462
+        "avg_diff": -56.925093633
       },
       {
         "machine_number": "627",
-        "avg_diff": 4.1230769231
+        "avg_diff": 5.3108614232
       },
       {
         "machine_number": "628",
-        "avg_diff": -11.4923076923
+        "avg_diff": -20.925093633
       },
       {
         "machine_number": "630",
-        "avg_diff": -4.4423076923
+        "avg_diff": -2.2134831461
       },
       {
         "machine_number": "631",
-        "avg_diff": -32.2346153846
+        "avg_diff": -38.0299625468
       },
       {
         "machine_number": "632",
-        "avg_diff": -11.45
+        "avg_diff": -15.9213483146
       },
       {
         "machine_number": "633",
-        "avg_diff": -32.2961538462
+        "avg_diff": -42.5880149813
       },
       {
         "machine_number": "635",
-        "avg_diff": -74.75
+        "avg_diff": -80.1872659176
       },
       {
         "machine_number": "636",
-        "avg_diff": 16.8730769231
+        "avg_diff": 16.8501872659
       },
       {
         "machine_number": "637",
-        "avg_diff": -58.4846153846
+        "avg_diff": -50.202247191
       },
       {
         "machine_number": "638",
-        "avg_diff": -119.4769230769
+        "avg_diff": -123.0861423221
       },
       {
         "machine_number": "650",
-        "avg_diff": -76.4153846154
+        "avg_diff": -71.6853932584
       },
       {
         "machine_number": "651",
-        "avg_diff": -118.6192307692
+        "avg_diff": -111.2996254682
       },
       {
         "machine_number": "652",
-        "avg_diff": -138.5076923077
+        "avg_diff": -130.2921348315
       },
       {
         "machine_number": "653",
-        "avg_diff": -24.0153846154
+        "avg_diff": -20.9625468165
       },
       {
         "machine_number": "655",
-        "avg_diff": 49.9653846154
+        "avg_diff": 46.3108614232
       },
       {
         "machine_number": "656",
-        "avg_diff": -47.5384615385
+        "avg_diff": -50.9850187266
       },
       {
         "machine_number": "657",
-        "avg_diff": -51.2269230769
+        "avg_diff": -47.6441947566
       },
       {
         "machine_number": "658",
-        "avg_diff": -63.8807692308
+        "avg_diff": -78.5805243446
       },
       {
         "machine_number": "660",
-        "avg_diff": -50.5076923077
+        "avg_diff": -42.0074906367
       },
       {
         "machine_number": "661",
-        "avg_diff": -183.6692307692
+        "avg_diff": -180.4194756554
       },
       {
         "machine_number": "662",
-        "avg_diff": -64.0
+        "avg_diff": -52.1573033708
       },
       {
         "machine_number": "663",
-        "avg_diff": -33.6076923077
+        "avg_diff": -34.393258427
       },
       {
         "machine_number": "665",
-        "avg_diff": -105.2653846154
+        "avg_diff": -97.3258426966
       },
       {
         "machine_number": "666",
-        "avg_diff": -26.1538461538
+        "avg_diff": -26.6816479401
       },
       {
         "machine_number": "667",
-        "avg_diff": -53.2
+        "avg_diff": -50.925093633
       },
       {
         "machine_number": "668",
-        "avg_diff": -125.8076923077
+        "avg_diff": -102.2397003745
       }
     ],
     "heatmap": [
-      {
-        "date": "2026-08-04",
-        "machine_number": "605",
-        "difference_medals": 962
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "606",
-        "difference_medals": -961
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "607",
-        "difference_medals": 829
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "608",
-        "difference_medals": -262
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "610",
-        "difference_medals": -447
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "611",
-        "difference_medals": -601
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "612",
-        "difference_medals": 90
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "613",
-        "difference_medals": -287
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "615",
-        "difference_medals": -345
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "616",
-        "difference_medals": -247
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "617",
-        "difference_medals": 122
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "618",
-        "difference_medals": 49
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "620",
-        "difference_medals": 381
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "621",
-        "difference_medals": -701
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "622",
-        "difference_medals": 493
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "623",
-        "difference_medals": -100
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "625",
-        "difference_medals": -1313
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "626",
-        "difference_medals": -583
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "627",
-        "difference_medals": -359
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "628",
-        "difference_medals": -207
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "630",
-        "difference_medals": 113
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "631",
-        "difference_medals": 102
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "632",
-        "difference_medals": 998
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "633",
-        "difference_medals": 1279
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "635",
-        "difference_medals": -180
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "636",
-        "difference_medals": 689
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "637",
-        "difference_medals": -184
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "638",
-        "difference_medals": -136
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "650",
-        "difference_medals": -836
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "651",
-        "difference_medals": 2049
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "652",
-        "difference_medals": -355
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "653",
-        "difference_medals": 88
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "655",
-        "difference_medals": -816
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "656",
-        "difference_medals": 81
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "657",
-        "difference_medals": -355
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "658",
-        "difference_medals": 565
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "660",
-        "difference_medals": -469
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "661",
-        "difference_medals": -231
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "662",
-        "difference_medals": -183
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "663",
-        "difference_medals": -261
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "665",
-        "difference_medals": 59
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "666",
-        "difference_medals": 26
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "667",
-        "difference_medals": 235
-      },
-      {
-        "date": "2026-08-04",
-        "machine_number": "668",
-        "difference_medals": 174
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "580",
-        "difference_medals": 3091
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "581",
-        "difference_medals": -1355
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "582",
-        "difference_medals": -648
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "583",
-        "difference_medals": 636
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "585",
-        "difference_medals": -986
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "586",
-        "difference_medals": -762
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "587",
-        "difference_medals": 1440
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "588",
-        "difference_medals": -228
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "600",
-        "difference_medals": -1745
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "601",
-        "difference_medals": 1595
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "602",
-        "difference_medals": -3
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "603",
-        "difference_medals": 597
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "605",
-        "difference_medals": 10
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "606",
-        "difference_medals": 52
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "607",
-        "difference_medals": 1930
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "608",
-        "difference_medals": 772
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "610",
-        "difference_medals": -70
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "611",
-        "difference_medals": 42
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "612",
-        "difference_medals": -476
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "613",
-        "difference_medals": -334
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "615",
-        "difference_medals": -569
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "616",
-        "difference_medals": -317
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "617",
-        "difference_medals": 887
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "618",
-        "difference_medals": -541
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "620",
-        "difference_medals": -365
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "621",
-        "difference_medals": 2125
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "622",
-        "difference_medals": -342
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "623",
-        "difference_medals": 2596
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "625",
-        "difference_medals": 2366
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "626",
-        "difference_medals": -739
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "627",
-        "difference_medals": -876
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "628",
-        "difference_medals": -759
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "630",
-        "difference_medals": 932
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "631",
-        "difference_medals": -723
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "632",
-        "difference_medals": -290
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "633",
-        "difference_medals": -787
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "635",
-        "difference_medals": 317
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "636",
-        "difference_medals": -842
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "637",
-        "difference_medals": 1528
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "638",
-        "difference_medals": 611
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "650",
-        "difference_medals": 5419
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "651",
-        "difference_medals": -268
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "652",
-        "difference_medals": -22
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "653",
-        "difference_medals": -223
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "655",
-        "difference_medals": -142
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "656",
-        "difference_medals": 1285
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "657",
-        "difference_medals": -465
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "658",
-        "difference_medals": 135
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "660",
-        "difference_medals": -547
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "661",
-        "difference_medals": -1031
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "662",
-        "difference_medals": 419
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "663",
-        "difference_medals": 469
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "665",
-        "difference_medals": -958
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "666",
-        "difference_medals": -394
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "667",
-        "difference_medals": -1246
-      },
-      {
-        "date": "2026-08-05",
-        "machine_number": "668",
-        "difference_medals": -167
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "580",
-        "difference_medals": 933
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "581",
-        "difference_medals": -1161
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "582",
-        "difference_medals": -434
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "583",
-        "difference_medals": 38
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "585",
-        "difference_medals": -181
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "586",
-        "difference_medals": 226
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "587",
-        "difference_medals": 2542
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "588",
-        "difference_medals": -133
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "600",
-        "difference_medals": -1214
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "601",
-        "difference_medals": -860
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "602",
-        "difference_medals": 200
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "603",
-        "difference_medals": -128
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "605",
-        "difference_medals": -578
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "606",
-        "difference_medals": -977
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "607",
-        "difference_medals": -530
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "608",
-        "difference_medals": 586
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "610",
-        "difference_medals": -569
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "611",
-        "difference_medals": -338
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "612",
-        "difference_medals": -600
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "613",
-        "difference_medals": -473
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "615",
-        "difference_medals": -310
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "616",
-        "difference_medals": 257
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "617",
-        "difference_medals": -637
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "618",
-        "difference_medals": -111
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "620",
-        "difference_medals": 839
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "621",
-        "difference_medals": -348
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "622",
-        "difference_medals": -430
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "623",
-        "difference_medals": 2402
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "625",
-        "difference_medals": -469
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "626",
-        "difference_medals": 759
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "627",
-        "difference_medals": -325
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "628",
-        "difference_medals": -746
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "630",
-        "difference_medals": 1547
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "631",
-        "difference_medals": -831
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "632",
-        "difference_medals": -77
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "633",
-        "difference_medals": 455
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "635",
-        "difference_medals": -265
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "636",
-        "difference_medals": 929
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "637",
-        "difference_medals": 133
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "638",
-        "difference_medals": 405
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "650",
-        "difference_medals": -165
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "651",
-        "difference_medals": -529
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "652",
-        "difference_medals": -259
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "653",
-        "difference_medals": -204
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "655",
-        "difference_medals": -1788
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "656",
-        "difference_medals": -425
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "657",
-        "difference_medals": -74
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "658",
-        "difference_medals": -175
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "660",
-        "difference_medals": 1904
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "661",
-        "difference_medals": 577
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "662",
-        "difference_medals": -576
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "663",
-        "difference_medals": -43
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "665",
-        "difference_medals": 219
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "666",
-        "difference_medals": -71
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "667",
-        "difference_medals": 2052
-      },
-      {
-        "date": "2026-08-06",
-        "machine_number": "668",
-        "difference_medals": 428
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "580",
-        "difference_medals": -1146
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "581",
-        "difference_medals": -436
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "582",
-        "difference_medals": -183
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "583",
-        "difference_medals": -237
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "585",
-        "difference_medals": -290
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "586",
-        "difference_medals": -139
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "587",
-        "difference_medals": -555
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "588",
-        "difference_medals": 144
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "600",
-        "difference_medals": -1179
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "601",
-        "difference_medals": 123
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "602",
-        "difference_medals": -396
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "603",
-        "difference_medals": -46
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "605",
-        "difference_medals": -380
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "606",
-        "difference_medals": -475
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "607",
-        "difference_medals": -208
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "608",
-        "difference_medals": -290
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "610",
-        "difference_medals": -797
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "611",
-        "difference_medals": 139
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "612",
-        "difference_medals": -147
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "613",
-        "difference_medals": -149
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "615",
-        "difference_medals": -322
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "616",
-        "difference_medals": -65
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "617",
-        "difference_medals": -623
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "618",
-        "difference_medals": 33
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "620",
-        "difference_medals": -493
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "621",
-        "difference_medals": -253
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "622",
-        "difference_medals": 90
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "623",
-        "difference_medals": 216
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "625",
-        "difference_medals": 397
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "626",
-        "difference_medals": -136
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "627",
-        "difference_medals": 1078
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "628",
-        "difference_medals": -356
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "630",
-        "difference_medals": 563
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "631",
-        "difference_medals": 1534
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "632",
-        "difference_medals": 219
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "633",
-        "difference_medals": 277
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "635",
-        "difference_medals": 652
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "636",
-        "difference_medals": -418
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "637",
-        "difference_medals": -12
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "638",
-        "difference_medals": -936
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "650",
-        "difference_medals": -170
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "651",
-        "difference_medals": -187
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "652",
-        "difference_medals": 369
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "653",
-        "difference_medals": -170
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "655",
-        "difference_medals": -271
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "656",
-        "difference_medals": 1067
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "657",
-        "difference_medals": -612
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "658",
-        "difference_medals": -637
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "660",
-        "difference_medals": -31
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "661",
-        "difference_medals": 121
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "662",
-        "difference_medals": -78
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "663",
-        "difference_medals": -269
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "665",
-        "difference_medals": -763
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "666",
-        "difference_medals": -530
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "667",
-        "difference_medals": -266
-      },
-      {
-        "date": "2026-08-07",
-        "machine_number": "668",
-        "difference_medals": -890
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "580",
-        "difference_medals": 357
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "581",
-        "difference_medals": -751
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "582",
-        "difference_medals": -1224
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "583",
-        "difference_medals": -852
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "585",
-        "difference_medals": -945
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "586",
-        "difference_medals": -142
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "587",
-        "difference_medals": -1578
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "588",
-        "difference_medals": -891
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "600",
-        "difference_medals": -436
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "601",
-        "difference_medals": -139
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "602",
-        "difference_medals": -262
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "603",
-        "difference_medals": -154
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "605",
-        "difference_medals": -714
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "606",
-        "difference_medals": -664
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "607",
-        "difference_medals": -1285
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "608",
-        "difference_medals": -663
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "610",
-        "difference_medals": -40
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "611",
-        "difference_medals": -519
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "612",
-        "difference_medals": -884
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "613",
-        "difference_medals": -1431
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "615",
-        "difference_medals": -725
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "616",
-        "difference_medals": -1306
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "617",
-        "difference_medals": -873
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "618",
-        "difference_medals": -884
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "620",
-        "difference_medals": 2530
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "621",
-        "difference_medals": -317
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "622",
-        "difference_medals": 651
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "623",
-        "difference_medals": -438
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "625",
-        "difference_medals": -937
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "626",
-        "difference_medals": -1040
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "627",
-        "difference_medals": -530
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "628",
-        "difference_medals": 16
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "630",
-        "difference_medals": -172
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "631",
-        "difference_medals": -557
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "632",
-        "difference_medals": -863
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "633",
-        "difference_medals": -1058
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "635",
-        "difference_medals": -1059
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "636",
-        "difference_medals": 446
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "637",
-        "difference_medals": -526
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "638",
-        "difference_medals": 1623
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "650",
-        "difference_medals": -391
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "651",
-        "difference_medals": -1342
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "652",
-        "difference_medals": -325
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "653",
-        "difference_medals": -217
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "655",
-        "difference_medals": 2168
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "656",
-        "difference_medals": -508
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "657",
-        "difference_medals": -413
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "658",
-        "difference_medals": 266
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "660",
-        "difference_medals": -356
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "661",
-        "difference_medals": -1143
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "662",
-        "difference_medals": -722
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "663",
-        "difference_medals": -133
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "665",
-        "difference_medals": -538
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "666",
-        "difference_medals": 2237
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "667",
-        "difference_medals": -625
-      },
-      {
-        "date": "2026-08-08",
-        "machine_number": "668",
-        "difference_medals": -1270
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "580",
-        "difference_medals": -321
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "581",
-        "difference_medals": 269
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "582",
-        "difference_medals": 3620
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "583",
-        "difference_medals": 1080
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "585",
-        "difference_medals": 1415
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "586",
-        "difference_medals": 377
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "587",
-        "difference_medals": -641
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "588",
-        "difference_medals": 308
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "600",
-        "difference_medals": -329
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "601",
-        "difference_medals": 87
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "602",
-        "difference_medals": 1153
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "603",
-        "difference_medals": 542
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "605",
-        "difference_medals": 1846
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "606",
-        "difference_medals": -380
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "607",
-        "difference_medals": -1327
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "608",
-        "difference_medals": 1563
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "610",
-        "difference_medals": 1429
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "611",
-        "difference_medals": -336
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "612",
-        "difference_medals": -978
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "613",
-        "difference_medals": -162
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "615",
-        "difference_medals": 606
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "616",
-        "difference_medals": -106
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "617",
-        "difference_medals": -188
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "618",
-        "difference_medals": -1164
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "620",
-        "difference_medals": 489
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "621",
-        "difference_medals": -1125
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "622",
-        "difference_medals": 921
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "623",
-        "difference_medals": 238
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "625",
-        "difference_medals": 404
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "626",
-        "difference_medals": -441
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "627",
-        "difference_medals": -698
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "628",
-        "difference_medals": -318
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "630",
-        "difference_medals": -1023
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "631",
-        "difference_medals": -1107
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "632",
-        "difference_medals": 8
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "633",
-        "difference_medals": -689
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "635",
-        "difference_medals": -113
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "636",
-        "difference_medals": -491
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "637",
-        "difference_medals": 761
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "638",
-        "difference_medals": -314
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "650",
-        "difference_medals": -708
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "651",
-        "difference_medals": -1283
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "652",
-        "difference_medals": -1279
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "653",
-        "difference_medals": 3230
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "655",
-        "difference_medals": 3084
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "656",
-        "difference_medals": -335
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "657",
-        "difference_medals": -942
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "658",
-        "difference_medals": -408
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "660",
-        "difference_medals": -358
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "661",
-        "difference_medals": -184
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "662",
-        "difference_medals": -577
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "663",
-        "difference_medals": 97
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "665",
-        "difference_medals": -508
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "666",
-        "difference_medals": 214
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "667",
-        "difference_medals": 305
-      },
-      {
-        "date": "2026-08-09",
-        "machine_number": "668",
-        "difference_medals": -822
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "580",
-        "difference_medals": -1298
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "581",
-        "difference_medals": -125
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "582",
-        "difference_medals": 750
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "583",
-        "difference_medals": 0
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "585",
-        "difference_medals": -777
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "586",
-        "difference_medals": 482
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "587",
-        "difference_medals": -461
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "588",
-        "difference_medals": 27
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "600",
-        "difference_medals": 206
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "601",
-        "difference_medals": -143
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "602",
-        "difference_medals": -232
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "603",
-        "difference_medals": -188
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "605",
-        "difference_medals": -306
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "606",
-        "difference_medals": -641
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "607",
-        "difference_medals": -432
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "608",
-        "difference_medals": 86
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "610",
-        "difference_medals": 163
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "611",
-        "difference_medals": -540
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "612",
-        "difference_medals": -271
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "613",
-        "difference_medals": 470
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "615",
-        "difference_medals": 30
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "616",
-        "difference_medals": 648
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "617",
-        "difference_medals": -657
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "618",
-        "difference_medals": -894
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "620",
-        "difference_medals": 302
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "621",
-        "difference_medals": -1316
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "622",
-        "difference_medals": -857
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "623",
-        "difference_medals": 1944
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "625",
-        "difference_medals": -551
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "626",
-        "difference_medals": -335
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "627",
-        "difference_medals": -285
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "628",
-        "difference_medals": -503
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "630",
-        "difference_medals": 424
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "631",
-        "difference_medals": 782
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "632",
-        "difference_medals": -467
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "633",
-        "difference_medals": -918
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "635",
-        "difference_medals": -601
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "636",
-        "difference_medals": -860
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "637",
-        "difference_medals": -211
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "638",
-        "difference_medals": -326
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "650",
-        "difference_medals": -737
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "651",
-        "difference_medals": -792
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "652",
-        "difference_medals": -1448
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "653",
-        "difference_medals": -577
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "655",
-        "difference_medals": -243
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "656",
-        "difference_medals": 628
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "657",
-        "difference_medals": -497
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "658",
-        "difference_medals": -179
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "660",
-        "difference_medals": -578
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "661",
-        "difference_medals": 777
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "662",
-        "difference_medals": 3256
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "663",
-        "difference_medals": -288
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "665",
-        "difference_medals": 413
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "666",
-        "difference_medals": -573
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "667",
-        "difference_medals": -1147
-      },
-      {
-        "date": "2026-08-10",
-        "machine_number": "668",
-        "difference_medals": 1476
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "580",
-        "difference_medals": -2036
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "581",
-        "difference_medals": 324
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "582",
-        "difference_medals": 156
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "583",
-        "difference_medals": -538
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "585",
-        "difference_medals": 1853
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "586",
-        "difference_medals": -464
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "587",
-        "difference_medals": -531
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "588",
-        "difference_medals": -192
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "600",
-        "difference_medals": -173
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "601",
-        "difference_medals": 3716
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "602",
-        "difference_medals": -483
-      },
-      {
-        "date": "2026-08-11",
-        "machine_number": "603",
-        "difference_medals": 810
-      },
       {
         "date": "2026-08-11",
         "machine_number": "605",
@@ -8301,6 +6343,1966 @@
         "date": "2026-09-08",
         "machine_number": "668",
         "difference_medals": -830
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "580",
+        "difference_medals": 245
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "581",
+        "difference_medals": 276
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "582",
+        "difference_medals": -67
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "583",
+        "difference_medals": -401
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "585",
+        "difference_medals": 1007
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "586",
+        "difference_medals": 1443
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "587",
+        "difference_medals": -725
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "588",
+        "difference_medals": 314
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "600",
+        "difference_medals": -379
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "601",
+        "difference_medals": 160
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "602",
+        "difference_medals": -1281
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "603",
+        "difference_medals": -914
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "605",
+        "difference_medals": -503
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "606",
+        "difference_medals": -586
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "607",
+        "difference_medals": 1119
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "608",
+        "difference_medals": 101
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "610",
+        "difference_medals": -1088
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "611",
+        "difference_medals": -1440
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "612",
+        "difference_medals": -1371
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "613",
+        "difference_medals": 673
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "615",
+        "difference_medals": -53
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "616",
+        "difference_medals": 3320
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "617",
+        "difference_medals": -1257
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "618",
+        "difference_medals": 2001
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "620",
+        "difference_medals": 1877
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "621",
+        "difference_medals": 617
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "622",
+        "difference_medals": 2131
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "623",
+        "difference_medals": -1221
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "625",
+        "difference_medals": 1123
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "626",
+        "difference_medals": -792
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "627",
+        "difference_medals": 299
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "628",
+        "difference_medals": 847
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "630",
+        "difference_medals": 804
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "631",
+        "difference_medals": 214
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "632",
+        "difference_medals": -521
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "633",
+        "difference_medals": -1381
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "635",
+        "difference_medals": -146
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "636",
+        "difference_medals": 789
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "637",
+        "difference_medals": 463
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "638",
+        "difference_medals": 259
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "650",
+        "difference_medals": 172
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "651",
+        "difference_medals": 1297
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "652",
+        "difference_medals": 919
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "653",
+        "difference_medals": -341
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "655",
+        "difference_medals": -1044
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "656",
+        "difference_medals": -645
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "657",
+        "difference_medals": -273
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "658",
+        "difference_medals": -365
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "660",
+        "difference_medals": 2449
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "661",
+        "difference_medals": 277
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "662",
+        "difference_medals": 1052
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "663",
+        "difference_medals": -929
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "665",
+        "difference_medals": -80
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "666",
+        "difference_medals": -197
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "667",
+        "difference_medals": -1220
+      },
+      {
+        "date": "2026-09-09",
+        "machine_number": "668",
+        "difference_medals": 1977
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "580",
+        "difference_medals": 368
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "581",
+        "difference_medals": 860
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "582",
+        "difference_medals": -171
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "583",
+        "difference_medals": 31
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "585",
+        "difference_medals": 2195
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "586",
+        "difference_medals": -277
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "587",
+        "difference_medals": 771
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "588",
+        "difference_medals": 122
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "600",
+        "difference_medals": -380
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "601",
+        "difference_medals": 3369
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "602",
+        "difference_medals": -270
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "603",
+        "difference_medals": 1980
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "605",
+        "difference_medals": 488
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "606",
+        "difference_medals": -613
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "607",
+        "difference_medals": 800
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "608",
+        "difference_medals": 161
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "610",
+        "difference_medals": 1206
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "611",
+        "difference_medals": 42
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "612",
+        "difference_medals": 1898
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "613",
+        "difference_medals": -596
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "615",
+        "difference_medals": 2
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "616",
+        "difference_medals": -126
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "617",
+        "difference_medals": 891
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "618",
+        "difference_medals": -359
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "620",
+        "difference_medals": 924
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "621",
+        "difference_medals": -804
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "622",
+        "difference_medals": 3503
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "623",
+        "difference_medals": 1857
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "625",
+        "difference_medals": -428
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "626",
+        "difference_medals": -507
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "627",
+        "difference_medals": 2140
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "628",
+        "difference_medals": -1033
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "630",
+        "difference_medals": -217
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "631",
+        "difference_medals": -866
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "632",
+        "difference_medals": -482
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "633",
+        "difference_medals": 412
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "635",
+        "difference_medals": 10
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "636",
+        "difference_medals": 819
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "637",
+        "difference_medals": -513
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "638",
+        "difference_medals": -255
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "650",
+        "difference_medals": 718
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "651",
+        "difference_medals": -200
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "652",
+        "difference_medals": -571
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "653",
+        "difference_medals": 1411
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "655",
+        "difference_medals": -113
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "656",
+        "difference_medals": 550
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "657",
+        "difference_medals": -152
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "658",
+        "difference_medals": -913
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "660",
+        "difference_medals": 155
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "661",
+        "difference_medals": -204
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "662",
+        "difference_medals": -140
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "663",
+        "difference_medals": 1275
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "665",
+        "difference_medals": -1306
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "666",
+        "difference_medals": -151
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "667",
+        "difference_medals": 1781
+      },
+      {
+        "date": "2026-09-15",
+        "machine_number": "668",
+        "difference_medals": 349
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "580",
+        "difference_medals": 485
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "581",
+        "difference_medals": -545
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "582",
+        "difference_medals": -266
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "583",
+        "difference_medals": 1523
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "585",
+        "difference_medals": -98
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "586",
+        "difference_medals": -662
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "587",
+        "difference_medals": -827
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "588",
+        "difference_medals": 355
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "600",
+        "difference_medals": 1561
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "601",
+        "difference_medals": -138
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "602",
+        "difference_medals": -757
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "603",
+        "difference_medals": 2
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "605",
+        "difference_medals": -382
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "606",
+        "difference_medals": 1445
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "607",
+        "difference_medals": 500
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "608",
+        "difference_medals": -805
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "610",
+        "difference_medals": -386
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "611",
+        "difference_medals": 1140
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "612",
+        "difference_medals": 77
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "613",
+        "difference_medals": -299
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "615",
+        "difference_medals": -150
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "616",
+        "difference_medals": -328
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "617",
+        "difference_medals": 942
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "618",
+        "difference_medals": 2082
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "620",
+        "difference_medals": -1146
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "621",
+        "difference_medals": 1060
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "622",
+        "difference_medals": -833
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "623",
+        "difference_medals": -630
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "625",
+        "difference_medals": -1578
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "626",
+        "difference_medals": -30
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "627",
+        "difference_medals": 525
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "628",
+        "difference_medals": 376
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "630",
+        "difference_medals": 454
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "631",
+        "difference_medals": -1620
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "632",
+        "difference_medals": -639
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "633",
+        "difference_medals": -737
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "635",
+        "difference_medals": 39
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "636",
+        "difference_medals": -859
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "637",
+        "difference_medals": 1056
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "638",
+        "difference_medals": -177
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "650",
+        "difference_medals": -557
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "651",
+        "difference_medals": 174
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "652",
+        "difference_medals": -123
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "653",
+        "difference_medals": -6
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "655",
+        "difference_medals": 1391
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "656",
+        "difference_medals": -340
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "657",
+        "difference_medals": 331
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "658",
+        "difference_medals": -913
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "660",
+        "difference_medals": 259
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "661",
+        "difference_medals": 773
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "662",
+        "difference_medals": 647
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "663",
+        "difference_medals": -96
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "665",
+        "difference_medals": -853
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "666",
+        "difference_medals": 496
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "667",
+        "difference_medals": -291
+      },
+      {
+        "date": "2026-09-16",
+        "machine_number": "668",
+        "difference_medals": 1091
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "580",
+        "difference_medals": -521
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "581",
+        "difference_medals": -282
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "582",
+        "difference_medals": -1089
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "583",
+        "difference_medals": 147
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "585",
+        "difference_medals": -49
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "586",
+        "difference_medals": -354
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "587",
+        "difference_medals": -209
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "588",
+        "difference_medals": -498
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "600",
+        "difference_medals": 115
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "601",
+        "difference_medals": -50
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "602",
+        "difference_medals": -665
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "603",
+        "difference_medals": -296
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "605",
+        "difference_medals": -281
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "606",
+        "difference_medals": -141
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "607",
+        "difference_medals": -1206
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "608",
+        "difference_medals": -475
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "610",
+        "difference_medals": 1042
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "611",
+        "difference_medals": -359
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "612",
+        "difference_medals": -257
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "613",
+        "difference_medals": -815
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "615",
+        "difference_medals": -414
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "616",
+        "difference_medals": -670
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "617",
+        "difference_medals": 55
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "618",
+        "difference_medals": 286
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "620",
+        "difference_medals": -1631
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "621",
+        "difference_medals": -473
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "622",
+        "difference_medals": -474
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "623",
+        "difference_medals": -554
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "625",
+        "difference_medals": -1053
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "626",
+        "difference_medals": -458
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "627",
+        "difference_medals": -574
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "628",
+        "difference_medals": -353
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "630",
+        "difference_medals": -997
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "631",
+        "difference_medals": -158
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "632",
+        "difference_medals": 107
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "633",
+        "difference_medals": -527
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "635",
+        "difference_medals": -901
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "636",
+        "difference_medals": -42
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "637",
+        "difference_medals": -388
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "638",
+        "difference_medals": -54
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "650",
+        "difference_medals": 292
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "651",
+        "difference_medals": -218
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "652",
+        "difference_medals": 1160
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "653",
+        "difference_medals": -368
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "655",
+        "difference_medals": -590
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "656",
+        "difference_medals": -2
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "657",
+        "difference_medals": -425
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "658",
+        "difference_medals": -1060
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "660",
+        "difference_medals": 15
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "661",
+        "difference_medals": -485
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "662",
+        "difference_medals": -101
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "663",
+        "difference_medals": -286
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "665",
+        "difference_medals": 344
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "666",
+        "difference_medals": -445
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "667",
+        "difference_medals": -1656
+      },
+      {
+        "date": "2026-09-17",
+        "machine_number": "668",
+        "difference_medals": -760
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "580",
+        "difference_medals": -1214
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "581",
+        "difference_medals": 429
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "582",
+        "difference_medals": -536
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "583",
+        "difference_medals": -631
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "585",
+        "difference_medals": 438
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "586",
+        "difference_medals": 521
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "587",
+        "difference_medals": -720
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "588",
+        "difference_medals": 747
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "600",
+        "difference_medals": 28
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "601",
+        "difference_medals": -350
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "602",
+        "difference_medals": -270
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "603",
+        "difference_medals": -267
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "605",
+        "difference_medals": 287
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "606",
+        "difference_medals": -114
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "607",
+        "difference_medals": -1269
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "608",
+        "difference_medals": -232
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "610",
+        "difference_medals": 1818
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "611",
+        "difference_medals": -121
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "612",
+        "difference_medals": 1566
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "613",
+        "difference_medals": -391
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "615",
+        "difference_medals": -322
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "616",
+        "difference_medals": -353
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "617",
+        "difference_medals": -209
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "618",
+        "difference_medals": -712
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "620",
+        "difference_medals": 1926
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "621",
+        "difference_medals": 506
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "622",
+        "difference_medals": -132
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "623",
+        "difference_medals": -950
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "625",
+        "difference_medals": -598
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "626",
+        "difference_medals": 350
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "627",
+        "difference_medals": -521
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "628",
+        "difference_medals": -1383
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "630",
+        "difference_medals": -534
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "631",
+        "difference_medals": 471
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "632",
+        "difference_medals": -562
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "633",
+        "difference_medals": -130
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "635",
+        "difference_medals": -188
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "636",
+        "difference_medals": -258
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "637",
+        "difference_medals": 116
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "638",
+        "difference_medals": 26
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "650",
+        "difference_medals": -358
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "651",
+        "difference_medals": 11
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "652",
+        "difference_medals": 829
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "653",
+        "difference_medals": -584
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "655",
+        "difference_medals": -275
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "656",
+        "difference_medals": -626
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "657",
+        "difference_medals": 1709
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "658",
+        "difference_medals": 212
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "660",
+        "difference_medals": -506
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "661",
+        "difference_medals": 520
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "662",
+        "difference_medals": 689
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "663",
+        "difference_medals": 15
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "665",
+        "difference_medals": 1061
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "666",
+        "difference_medals": -251
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "667",
+        "difference_medals": 1894
+      },
+      {
+        "date": "2026-09-18",
+        "machine_number": "668",
+        "difference_medals": -656
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "580",
+        "difference_medals": -197
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "581",
+        "difference_medals": -232
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "582",
+        "difference_medals": -904
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "583",
+        "difference_medals": 589
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "585",
+        "difference_medals": -633
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "586",
+        "difference_medals": 371
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "587",
+        "difference_medals": 1435
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "588",
+        "difference_medals": 119
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "600",
+        "difference_medals": -697
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "601",
+        "difference_medals": -293
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "602",
+        "difference_medals": -677
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "603",
+        "difference_medals": -335
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "605",
+        "difference_medals": -1148
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "606",
+        "difference_medals": 801
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "607",
+        "difference_medals": 16
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "608",
+        "difference_medals": -521
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "610",
+        "difference_medals": 360
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "611",
+        "difference_medals": 96
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "612",
+        "difference_medals": -918
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "613",
+        "difference_medals": -726
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "615",
+        "difference_medals": 590
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "616",
+        "difference_medals": -144
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "617",
+        "difference_medals": 1052
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "618",
+        "difference_medals": -1499
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "620",
+        "difference_medals": -432
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "621",
+        "difference_medals": 1042
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "622",
+        "difference_medals": -293
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "623",
+        "difference_medals": 1401
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "625",
+        "difference_medals": 2237
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "626",
+        "difference_medals": 198
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "627",
+        "difference_medals": -380
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "628",
+        "difference_medals": -897
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "630",
+        "difference_medals": -450
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "631",
+        "difference_medals": 305
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "632",
+        "difference_medals": 457
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "633",
+        "difference_medals": -448
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "635",
+        "difference_medals": -533
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "636",
+        "difference_medals": -587
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "637",
+        "difference_medals": 872
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "638",
+        "difference_medals": -1123
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "650",
+        "difference_medals": 170
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "651",
+        "difference_medals": 573
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "652",
+        "difference_medals": -975
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "653",
+        "difference_medals": 343
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "655",
+        "difference_medals": -1062
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "656",
+        "difference_medals": -18
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "657",
+        "difference_medals": -703
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "658",
+        "difference_medals": -563
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "660",
+        "difference_medals": -364
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "661",
+        "difference_medals": -458
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "662",
+        "difference_medals": 882
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "663",
+        "difference_medals": -333
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "665",
+        "difference_medals": 5
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "666",
+        "difference_medals": -601
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "667",
+        "difference_medals": -720
+      },
+      {
+        "date": "2026-09-19",
+        "machine_number": "668",
+        "difference_medals": 3554
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "580",
+        "difference_medals": -1139
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "581",
+        "difference_medals": 840
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "582",
+        "difference_medals": 464
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "583",
+        "difference_medals": -788
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "585",
+        "difference_medals": -1368
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "586",
+        "difference_medals": 435
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "587",
+        "difference_medals": -202
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "588",
+        "difference_medals": -68
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "600",
+        "difference_medals": -112
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "601",
+        "difference_medals": -62
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "602",
+        "difference_medals": -434
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "603",
+        "difference_medals": -181
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "605",
+        "difference_medals": -361
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "606",
+        "difference_medals": -346
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "607",
+        "difference_medals": -1141
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "608",
+        "difference_medals": -171
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "610",
+        "difference_medals": -60
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "611",
+        "difference_medals": 1849
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "612",
+        "difference_medals": 394
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "613",
+        "difference_medals": -66
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "615",
+        "difference_medals": -308
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "616",
+        "difference_medals": 247
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "617",
+        "difference_medals": -42
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "618",
+        "difference_medals": 15
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "620",
+        "difference_medals": -210
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "621",
+        "difference_medals": 1482
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "622",
+        "difference_medals": -824
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "623",
+        "difference_medals": -1113
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "625",
+        "difference_medals": 1523
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "626",
+        "difference_medals": -181
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "627",
+        "difference_medals": -1143
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "628",
+        "difference_medals": -156
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "630",
+        "difference_medals": 1504
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "631",
+        "difference_medals": -119
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "632",
+        "difference_medals": 366
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "633",
+        "difference_medals": -163
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "635",
+        "difference_medals": -256
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "636",
+        "difference_medals": 250
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "637",
+        "difference_medals": 196
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "638",
+        "difference_medals": -476
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "650",
+        "difference_medals": 291
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "651",
+        "difference_medals": -513
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "652",
+        "difference_medals": -15
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "653",
+        "difference_medals": 192
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "655",
+        "difference_medals": 1067
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "656",
+        "difference_medals": -172
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "657",
+        "difference_medals": 111
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "658",
+        "difference_medals": -770
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "660",
+        "difference_medals": -92
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "661",
+        "difference_medals": -841
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "662",
+        "difference_medals": -315
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "663",
+        "difference_medals": -91
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "665",
+        "difference_medals": 2212
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "666",
+        "difference_medals": 825
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "667",
+        "difference_medals": 447
+      },
+      {
+        "date": "2026-09-20",
+        "machine_number": "668",
+        "difference_medals": -143
       }
     ],
     "by_weekday_avg_diff": [
@@ -8310,37 +8312,37 @@
       },
       {
         "weekday": 1,
-        "avg_diff": 5.1501831502
+        "avg_diff": 13.7004464286
       },
       {
         "weekday": 2,
-        "avg_diff": -14.054981203
+        "avg_diff": -8.5674107143
       },
       {
         "weekday": 3,
-        "avg_diff": -39.2698979592
+        "avg_diff": -48.1498015873
       },
       {
         "weekday": 4,
-        "avg_diff": -30.4714285714
+        "avg_diff": -29.6517857143
       },
       {
         "weekday": 5,
-        "avg_diff": -36.8001930502
+        "avg_diff": -36.9577067669
       },
       {
         "weekday": 6,
-        "avg_diff": -64.897556391
+        "avg_diff": -63.1108058608
       }
     ],
     "by_special_day_avg_diff": [
       {
         "name": "5の日",
-        "avg_diff": 16.1142857143
+        "avg_diff": 28.8468406593
       },
       {
         "name": "7のつく日",
-        "avg_diff": -60.7442857143
+        "avg_diff": -72.2135989011
       },
       {
         "name": "11日",
@@ -8352,7 +8354,7 @@
       },
       {
         "name": "月日ゾロ目",
-        "avg_diff": -32.518543956
+        "avg_diff": -25.9808673469
       }
     ],
     "prev_vs_next_diff": [
@@ -13509,7 +13511,83 @@
         "date": "2026-09-08",
         "difference_medals": 1178.3333333333,
         "cumulative": 2923.0
+      },
+      {
+        "date": "2026-09-09",
+        "difference_medals": 698.3333333333,
+        "cumulative": 3621.3333333333
+      },
+      {
+        "date": "2026-09-15",
+        "difference_medals": 981.0,
+        "cumulative": 4602.3333333333
+      },
+      {
+        "date": "2026-09-16",
+        "difference_medals": -867.0,
+        "cumulative": 3735.3333333333
+      },
+      {
+        "date": "2026-09-17",
+        "difference_medals": -537.0,
+        "cumulative": 3198.3333333333
+      },
+      {
+        "date": "2026-09-18",
+        "difference_medals": 253.3333333333,
+        "cumulative": 3451.6666666667
+      },
+      {
+        "date": "2026-09-19",
+        "difference_medals": 644.0,
+        "cumulative": 4095.6666666667
+      },
+      {
+        "date": "2026-09-20",
+        "difference_medals": -247.0,
+        "cumulative": 3848.6666666667
       }
     ]
+  },
+  "data_quality": {
+    "observed_days": 267,
+    "first_date": "2025-11-01",
+    "last_date": "2026-09-20",
+    "calendar_span_days": 324,
+    "missing_calendar_days": 57,
+    "gap_dates": [
+      "2026-02-12",
+      "2026-03-05",
+      "2026-03-06",
+      "2026-03-07",
+      "2026-03-08",
+      "2026-03-09",
+      "2026-03-10",
+      "2026-03-11",
+      "2026-03-12",
+      "2026-03-13",
+      "2026-03-14",
+      "2026-03-27",
+      "2026-03-28",
+      "2026-03-29",
+      "2026-03-30",
+      "2026-04-30",
+      "2026-05-01",
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-16",
+      "2026-05-17",
+      "2026-05-18",
+      "2026-06-09",
+      "2026-06-10",
+      "2026-06-11",
+      "2026-06-12",
+      "2026-06-13",
+      "2026-06-14",
+      "2026-06-15",
+      "2026-06-16"
+    ],
+    "median_rows_per_day": 56,
+    "sparse_days": []
   }
 }

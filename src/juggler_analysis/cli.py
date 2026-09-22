@@ -10,7 +10,7 @@ import pandas as pd
 from collectors.csv_importer import read_csv
 from collectors.slonavi_importer import SloNaviConfig, fetch_html, fetch_range, parse_slonavi_html
 from collectors.slonavi_importer import RobotsUnavailableError
-from juggler_analysis.cleaning import normalize_probabilities, quality_report
+from juggler_analysis.cleaning import filter_valid_results, normalize_probabilities, quality_report
 from juggler_analysis.config import ROOT, config_path, load_yaml
 from juggler_analysis.database import connect, load_results, upsert_results
 from juggler_analysis.export import build_dashboard_payload, write_dashboard_payload
@@ -77,7 +77,11 @@ def _save_imported(df: pd.DataFrame, db: str) -> None:
         out = ROOT / "data" / "processed" / "quality_report.csv"
         report.to_csv(out, index=False)
         print(f"quality issues found: {len(report)} rows, report={out}")
-    df = normalize_probabilities(df)
+    valid = filter_valid_results(df)
+    print(f"valid_rows: {len(valid)} / {len(df)}")
+    if valid.empty:
+        raise SystemExit("no valid rows to import")
+    df = normalize_probabilities(valid)
     conn = connect(db)
     changed = upsert_results(conn, df)
     conn.close()

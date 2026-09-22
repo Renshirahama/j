@@ -112,6 +112,8 @@ npm run dev
 
 取得できない店舗・日（robots.txt確認不可、未掲載など）はログに残し、他店舗の処理は続けます。ログは`data/processed/daily_update.log`です。店舗設定とスコアプロファイルは`config/daily_update.yaml`で変更できます。
 
+青葉台・市ヶ尾の店舗を追加する場合は、`config/daily_update.yaml`の`tenman_ichigao`または`aobadai_kaikan`に、スロナビの店舗IDを設定して`enabled: true`にします。店舗IDはデータURLの末尾です（例: `/data/2026-09-21-11297/`なら`11297`）。
+
 ## 設定
 
 店舗・機種:

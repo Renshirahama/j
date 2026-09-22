@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 from collectors.slonavi_importer import RobotsUnavailableError, fetch_html, parse_slonavi_html  # noqa: E402
-from juggler_analysis.cleaning import normalize_probabilities  # noqa: E402
+from juggler_analysis.cleaning import filter_valid_results, normalize_probabilities, quality_report  # noqa: E402
 from juggler_analysis.config import config_path, load_yaml  # noqa: E402
 from juggler_analysis.database import connect, upsert_results  # noqa: E402
 from juggler_analysis.export import build_dashboard_payload, write_dashboard_payload  # noqa: E402
@@ -31,6 +31,14 @@ def update_job(job: dict, target_date: date, source_cfg: dict, special_cfg: dict
     raw_path.parent.mkdir(parents=True, exist_ok=True)
     raw_path.write_text(html, encoding="utf-8")
     df = parse_slonavi_html(html, target_date, str(job["store"]), str(job["machine"]))
+    report = quality_report(df)
+    if not report.empty:
+        report_path = ROOT / "data/processed" / f"{job['id']}_quality_report.csv"
+        report.to_csv(report_path, index=False)
+        logging.warning("%s: quality issues=%s report=%s", job["id"], len(report), report_path)
+    df = filter_valid_results(df)
+    if df.empty:
+        raise ValueError("no valid rows after quality filtering")
     df = normalize_probabilities(df)
     db_path = ROOT / str(job["db"])
     conn = connect(db_path)
@@ -76,6 +84,9 @@ def main() -> int:
     label_cfg = load_yaml(config_path("labels.yaml"))
     failed = 0
     for job in jobs:
+        if job.get("enabled", True) is False:
+            logging.info("%s: skipped because enabled=false", job["id"])
+            continue
         try:
             update_job(job, target_date, source_cfg, special_cfg, label_cfg)
         except Exception as exc:

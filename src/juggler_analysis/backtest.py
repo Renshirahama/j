@@ -32,7 +32,11 @@ def walk_forward_backtest(
     dates = sorted(prepared["date"].unique())
     pick_rows: list[dict[str, object]] = []
     rng = np.random.default_rng(seed)
-    random_top3_means: list[float] = []
+    # Each entry is one day's random TOP3 mean for every Monte Carlo trial.
+    # Keeping the trial dimension lets us form a null distribution for the
+    # whole evaluation period, rather than treating each day as independent
+    # evidence in the final confidence interval.
+    random_daily_trial_means: list[list[float]] = []
     random_daily_rows: list[dict[str, float]] = []
 
     for i in range(min_train_days, len(dates)):
@@ -61,12 +65,13 @@ def walk_forward_backtest(
         day_values = day["difference_medals"].to_numpy()
         if len(day_values) >= 3:
             trial_means = [float(np.mean(rng.choice(day_values, size=3, replace=False))) for _ in range(random_trials)]
-            random_top3_means.extend(trial_means)
+            random_daily_trial_means.append(trial_means)
             random_daily_rows.append({"date": target_date, "random_top3_mean": float(np.mean(trial_means))})
 
     picks = pd.DataFrame(pick_rows)
     metrics = summarize_picks(picks, prepared, label_name)
-    random_metrics = summarize_random(random_top3_means)
+    random_period_means = np.asarray(random_daily_trial_means, dtype=float).mean(axis=0) if random_daily_trial_means else []
+    random_metrics = summarize_random(random_period_means)
     if random_daily_rows:
         metrics["random_top3_daily_mean"] = float(pd.DataFrame(random_daily_rows)["random_top3_mean"].mean())
     pred_top3 = metrics.get("top3_avg_diff", 0.0)
@@ -129,8 +134,8 @@ def summarize_picks(picks: pd.DataFrame, prepared: pd.DataFrame, label_name: str
     return out
 
 
-def summarize_random(values: list[float]) -> dict[str, float | int]:
-    if not values:
+def summarize_random(values: list[float] | np.ndarray) -> dict[str, float | int]:
+    if len(values) == 0:
         return {"random_trials": 0, "random_avg": 0.0, "random_95_lo": 0.0, "random_95_hi": 0.0}
     arr = np.asarray(values)
     return {

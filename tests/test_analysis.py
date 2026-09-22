@@ -5,7 +5,7 @@ from datetime import date, timedelta
 import pandas as pd
 
 from juggler_analysis.backtest import walk_forward_backtest
-from juggler_analysis.cleaning import normalize_probabilities
+from juggler_analysis.cleaning import coverage_summary, filter_valid_results, normalize_probabilities
 from juggler_analysis.features import add_calendar_features, add_historical_features
 from juggler_analysis.scoring import score_candidates
 from collectors.slonavi_importer import parse_slonavi_html
@@ -40,6 +40,23 @@ def test_probability_calculation() -> None:
     row = df.iloc[0]
     assert row["bb_probability"] == row["games"] / row["bb"]
     assert row["combined_probability"] == row["games"] / (row["bb"] + row["rb"])
+
+
+def test_invalid_zero_game_rows_are_excluded_from_analysis() -> None:
+    df = sample_df(1)
+    df.loc[len(df)] = {**df.iloc[0].to_dict(), "machine_number": "bad", "games": 0, "bb": 0, "rb": 0}
+    valid = filter_valid_results(df)
+    assert len(valid) == len(df) - 1
+    assert "bad" not in set(valid["machine_number"])
+
+
+def test_coverage_summary_does_not_fill_missing_dates() -> None:
+    df = sample_df(3)
+    df = df[df["date"] != date(2026, 1, 2)]
+    summary = coverage_summary(df)
+    assert summary["observed_days"] == 2
+    assert summary["calendar_span_days"] == 3
+    assert summary["missing_calendar_days"] == 1
 
 
 def test_rolling_features_use_past_only() -> None:
@@ -80,7 +97,8 @@ def test_backtest() -> None:
     result = walk_forward_backtest(sample_df(40), SPECIAL, LABELS, "same_machine_top20", min_train_days=30, random_trials=20)
     assert result.metrics["evaluated_days"] == 10
     assert "top3_avg_diff" in result.metrics
-    assert result.random_metrics["random_trials"] > 0
+    assert result.random_metrics["random_trials"] == 20
+    assert result.random_metrics["random_95_lo"] <= result.random_metrics["random_avg"] <= result.random_metrics["random_95_hi"]
 
 
 def test_slonavi_section_parser() -> None:
