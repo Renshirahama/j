@@ -3,6 +3,7 @@ import path from "path";
 import { SmallBarChart, SmallLine, SmallScatter } from "@/components/Charts";
 import { Metric } from "@/components/Metric";
 import { AnalysisChat } from "@/components/AnalysisChat";
+import { PredictionLedger } from "@/components/PredictionLedger";
 import type { DashboardPayload } from "@/lib/types";
 
 const DASHBOARDS = [
@@ -93,6 +94,10 @@ export default async function Home({ searchParams }: { searchParams?: Promise<{ 
         <div className={`mt-4 rounded-md border px-3 py-2 text-sm ${hasPower ? "border-[#0f766e] text-[#34d399]" : "border-[#b45309] text-[#fbbf24]"}`}>
           {hasPower ? "バックテスト上、ランダム95%区間を上回っています。" : "現時点ではランダムより明確に良いとは判定していません。"}
         </div>
+      </section>
+
+      <section className="px-4 py-5">
+        <PredictionLedger store={data.store} machineName={data.machine_name} targetDate={data.target_date} ranking={data.ranking} />
       </section>
 
       <section className="grid grid-cols-2 border-y border-[#d8dee8] md:grid-cols-4">

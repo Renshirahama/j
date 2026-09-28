@@ -31,3 +31,14 @@ export type DashboardPayload = {
   hypotheses: Array<Record<string, number | string>>;
   charts: Record<string, Array<Record<string, number | string>>>;
 };
+
+export type PredictionLedgerEntry = {
+  id: string;
+  store: string;
+  machine_name: string;
+  target_date: string;
+  system_picks: string[];
+  personal_picks: string[];
+  note: string;
+  fixed_at: string;
+};
